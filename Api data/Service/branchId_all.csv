@@ -1,0 +1,68 @@
+id,label,value,_branchId
+6,6,Audiometers,1
+4,4,Ear simulators,1
+1,1,Measurement microphones,1
+5,5,Reference sound sources,1
+2,2,Sound calibrators,1
+3,3,Sound measuring instruments,1
+66,32,Acceleration calibrator,2
+67,33,Acceleration measuring chain / accelerometer,2
+65,31,Acceleration measuring instrument,2
+69,35,Angular acceleration calibrator,2
+70,36,Angular acceleration measuring chain / accelerometer,2
+68,34,Angular acceleration measuring instrument,2
+8,22,Angular vibration,2
+10,30,AUV auxiliary instruments and/or services,2
+9,23,Dynamic force,2
+72,38,Force measuring chain or force transducer for mechanical impedance and mobility measurements or modal testing,2
+71,37,Force measuring instrument for mechanical impedance and mobility measurements or modal testing,2
+7,21,Linear vibration,2
+73,45,Vibration signal conditioner,2
+11,11,Hydrophones (medical ultrasonic),3
+12,12,Hydrophones (underwater acoustics),3
+14,14,Ultrasound transducer,3
+13,13,Ultrasound transducer with generator,3
+17,7,AC and DC power,4
+16,6,AC current,4
+15,5,AC voltage (up to the MHz range),4
+20,3,DC current (up to 100 A),5
+19,2,DC resistance,5
+18,1,DC voltage (up to 1100 V),5
+21,10,Electric and magnetic fields,6
+22,8,High voltage and current,7
+23,4,Impedance (up to the MHz range),8
+24,12,Measurements on materials,9
+25,9,Other DC and low frequency measurements,10
+26,11,Radio frequency measurements,11
+28,3,Angle,12
+30,5,Complex geometry,12
+29,4,Form,12
+27,2,Linear dimensions,12
+31,6,Various dimensional,12
+32,1,Radiations of the mise en pratique,13
+33,2,Density,14
+34,9,Fluid flow,15
+35,4,Force,16
+36,1,Mass,17
+37,3,Pressure,18
+38,5,Torque,19
+42,2,Properties of detectors,20
+43,3,Spectral emission properties of sources,20
+44,5,Spectral.-int. meas. for sources and detectors,20
+45,7,Fibre optics,21
+47,6,Colour and other spectral.-int. meas. of materials,22
+46,4,Spectral properties of materials,22
+48,1,Photometry,23
+50,4,Dynamic generators,24
+49,3,Hygrometers,24
+51,5,Static generators,24
+52,1,Items for defining ITS-90,25
+53,2,Items for disseminating ITS-90 and PLTS 2000,25
+64,7,Items used for disseminating thermodynamic temperature,25
+54,6,Thermophysical quantities,26
+55,2,Frequency,27
+56,3,Time interval,28
+57,1,Time scale difference,29
+39,6,Viscosity,35
+40,7,Hardness,36
+41,8,Gravity,37

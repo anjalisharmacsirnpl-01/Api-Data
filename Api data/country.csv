@@ -1,0 +1,106 @@
+value,label,id
+Albania,AL,1
+Argentina,AR,2
+Australia,AU,4
+Austria,AT,3
+Azerbaijan,AZ,5
+Bangladesh,BD,130
+Belarus,BY,12
+Belgium,BE,7
+BIPM - International Organization,BI,131
+Bolivia,BO,9
+Bosnia and Herzegovina,BA,6
+Botswana,BW,11
+Brazil,BR,10
+Bulgaria,BG,8
+Cambodia,KH,191
+Canada,CA,13
+CARICOM (Caribbean Community),CAR,132
+Chile,CL,15
+China,CN,16
+Chinese Taipei,TW,75
+Colombia,CO,17
+Costa Rica,CR,18
+Croatia,HR,34
+Cuba,CU,19
+Czechia,CZ,20
+Denmark,DK,22
+Ecuador,EC,23
+Egypt,EG,25
+Estonia,EE,24
+Ethiopia,ET,134
+European Union,EU,27
+Finland,FI,28
+France,FR,29
+Georgia,GE,31
+Germany,DE,21
+Ghana,GH,135
+Greece,GR,32
+"Hong Kong, China",HK,33
+Hungary,HU,35
+IAEA - International Organization,IA,36
+India,IN,39
+Indonesia,ID,37
+Iran (Islamic Republic of),IR,138
+Iraq,IQ,137
+Ireland,IE,38
+Israel,IL,136
+Italy,IT,40
+Jamaica,JM,41
+Japan,JP,42
+Kazakhstan,KZ,45
+Kenya,KE,43
+"Korea, Republic of",KR,44
+Kuwait,KW,140
+Latvia,LV,48
+Lithuania,LT,47
+Luxembourg,LU,142
+Malaysia,MY,54
+Malta,MT,144
+Mauritius,MU,145
+Mexico,MX,53
+"Moldova, Republic of",MD,50
+Mongolia,MN,143
+Montenegro,ME,51
+Morocco,MA,49
+Namibia,NA,55
+Netherlands,NL,56
+New Zealand,NZ,58
+North Macedonia,MK,52
+Norway,NO,57
+Oman,OM,148
+Pakistan,PK,149
+Panama,PA,59
+Paraguay,PY,64
+Peru,PE,60
+Philippines,PH,61
+Poland,PL,62
+Portugal,PT,63
+Qatar,QA,150
+Romania,RO,65
+Russian Federation,RU,67
+Saudi Arabia,SA,151
+Serbia,RS,66
+Singapore,SG,69
+Slovakia,SK,71
+Slovenia,SI,70
+South Africa,ZA,81
+Spain,ES,26
+Sri Lanka,LK,46
+Sweden,SE,68
+Switzerland,CH,14
+Syrian Arab Republic,SY,154
+Tanzania,TZ,156
+Thailand,TH,72
+Tunisia,TN,73
+Türkiye,TR,74
+Ukraine,UA,76
+United Arab Emirates,AE,128
+United Kingdom,GB,30
+United States,US,77
+Uruguay,UY,78
+Uzbekistan,UZ,158
+Viet Nam,VN,79
+WMO - International Organization,WM,80
+Zambia,ZM,82
+Zimbabwe,ZW,83

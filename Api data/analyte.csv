@@ -1,0 +1,1731 @@
+label,id,value
+nitrogen,1,nitrogen
+boron,2,boron
+arsenic,3,arsenic
+phosphorus,4,phosphorus
+hydrogen,5,hydrogen
+lithium,6,lithium
+total sodium as sodium oxide,7,total sodium as sodium oxide
+total magnesium as magnesium oxide,8,total magnesium as magnesium oxide
+total aluminum as aluminum oxide,9,total aluminum as aluminum oxide
+total silicon as silicon dioxide,10,total silicon as silicon dioxide
+total phosphorus as phosphorus pentoxide,11,total phosphorus as phosphorus pentoxide
+total sulfur as sulfur trioxide,12,total sulfur as sulfur trioxide
+total potassium as potassium oxide,13,total potassium as potassium oxide
+total calcium as calcium oxide,14,total calcium as calcium oxide
+total titanium as titanium (IV) oxide,15,total titanium as titanium (IV) oxide
+total chromium as chromium (III) oxide,16,total chromium as chromium (III) oxide
+total manganese as manganese (III) oxide,17,total manganese as manganese (III) oxide
+total iron as iron (III) oxide,18,total iron as iron (III) oxide
+total zinc as zinc oxide,19,total zinc as zinc oxide
+total strontium as strontium oxide,20,total strontium as strontium oxide
+chloride,21,chloride
+acid,22,acid
+oxidants expressed as potassium dichromate,23,oxidants expressed as potassium dichromate
+total acid expressed as potassium hydrogen phthalate,24,total acid expressed as potassium hydrogen phthalate
+total halides (except F) expressed as potassium chloride,25,total halides (except F) expressed as potassium chloride
+reductants expressed as arsenic(III) oxide,26,reductants expressed as arsenic(III) oxide
+total acid expressed as amidosulfuric acid,27,total acid expressed as amidosulfuric acid
+glucose (d-glucose),28,glucose (d-glucose)
+creatinine,29,creatinine
+"p,p'-DDE",30,"p,p'-DDE"
+"p,p'-DDT",31,"p,p'-DDT"
+gamma-HCH,32,gamma-HCH
+alpha-endosulfan,33,alpha-endosulfan
+beta-endosulfan,34,beta-endosulfan
+chloroform,35,chloroform
+naphthalene,36,naphthalene
+acenaphthylene,37,acenaphthylene
+acenaphthene,38,acenaphthene
+fluorene,39,fluorene
+phenanthrene,40,phenanthrene
+pyrene,41,pyrene
+benzo[a]anthracene,42,benzo[a]anthracene
+chrysene,43,chrysene
+benzo[a]pyrene,44,benzo[a]pyrene
+"dibenz[a,h]anthracene",45,"dibenz[a,h]anthracene"
+PCB 28,46,PCB 28
+PCB 101,47,PCB 101
+PCB 153,48,PCB 153
+PCB 170,49,PCB 170
+bromodichloromethane,50,bromodichloromethane
+"dibromochloro
+methane",51,"dibromochloro
+methane"
+bromoform,52,bromoform
+benzene,53,benzene
+toluene,54,toluene
+ethylbenzene,55,ethylbenzene
+o-xylene,56,o-xylene
+p-xylene,57,p-xylene
+ethanol,58,ethanol
+fluoranthene,59,fluoranthene
+"benzo[g,h,i]perylene",60,"benzo[g,h,i]perylene"
+PCB 105,61,PCB 105
+fenitrothion,62,fenitrothion
+parathion,63,parathion
+diazinon,64,diazinon
+BDE 209 (decabromodiphenyl ether),65,BDE 209 (decabromodiphenyl ether)
+"2,2',3,3',4,4',5,5',6-nonabromodiphenyl ether",66,"2,2',3,3',4,4',5,5',6-nonabromodiphenyl ether"
+acetanilide,67,acetanilide
+bilirubin,68,bilirubin
+cholesterol,69,cholesterol
+sucrose,70,sucrose
+tripalmitin,71,tripalmitin
+urea,72,urea
+uric acid,73,uric acid
+d-mannitol,74,d-mannitol
+m-xylene,75,m-xylene
+"1,2,3-trimethylbenzene",76,"1,2,3-trimethylbenzene"
+"1,3,5-trimethylbenzene",77,"1,3,5-trimethylbenzene"
+"1,2,4-trimethylbenzene",78,"1,2,4-trimethylbenzene"
+styrene,79,styrene
+n-hexane,80,n-hexane
+n-heptane,81,n-heptane
+n-octane,82,n-octane
+n-nonane,83,n-nonane
+n-decane,84,n-decane
+n-undecane,85,n-undecane
+n-dodecane,86,n-dodecane
+cadmium,87,cadmium
+lead,88,lead
+silicon dioxide,89,silicon dioxide
+hexachlorobenzene,90,hexachlorobenzene
+"2,4'-DDE",91,"2,4'-DDE"
+cis-chlordane,92,cis-chlordane
+trans-nonachlor,93,trans-nonachlor
+"4,4'-DDD",94,"4,4'-DDD"
+"4,4'-DDE",95,"4,4'-DDE"
+aldrin,96,aldrin
+heptachlor epoxide,97,heptachlor epoxide
+"4,4'-DDT",98,"4,4'-DDT"
+lindane,99,lindane
+anthracene,100,anthracene
+benzo[b]fluoranthene,101,benzo[b]fluoranthene
+benzo[k]fluoranthene,102,benzo[k]fluoranthene
+"indeno[1,2,3-cd]pyrene",103,"indeno[1,2,3-cd]pyrene"
+heptachlor,104,heptachlor
+dieldrin,105,dieldrin
+endrin,106,endrin
+"2,4'-DDD",107,"2,4'-DDD"
+"2,4'-DDT",108,"2,4'-DDT"
+methoxychlor,109,methoxychlor
+mirex,110,mirex
+methanol,111,methanol
+2-butanol,112,2-butanol
+1-propanol,113,1-propanol
+2-methyl-1-propanol,114,2-methyl-1-propanol
+1-pentanol,115,1-pentanol
+1-butanol,116,1-butanol
+isoamyl alcohol,117,isoamyl alcohol
+ethyl lactate,118,ethyl lactate
+2-pentanol,119,2-pentanol
+n-tetradecane,120,n-tetradecane
+n-pentadecane,121,n-pentadecane
+n-hexadecane,122,n-hexadecane
+methylene chloride,123,methylene chloride
+trichloromethane,124,trichloromethane
+"1,1,1-trichloroethane",125,"1,1,1-trichloroethane"
+"1,2-dichloroethane",126,"1,2-dichloroethane"
+tetrachloromethane,127,tetrachloromethane
+trichloroethylene,128,trichloroethylene
+"1,1,2-trichloroethane",129,"1,1,2-trichloroethane"
+tetrachloroethylene,130,tetrachloroethylene
+"1,1,2,2-tetrachloroethane",131,"1,1,2,2-tetrachloroethane"
+manganese,132,manganese
+molybdenum,133,molybdenum
+nickel,134,nickel
+chromium,135,chromium
+pH,136,pH
+gold,137,gold
+mercury,138,mercury
+platinum,139,platinum
+palladium,140,palladium
+iron,141,iron
+copper,142,copper
+gallium,143,gallium
+silicon,144,silicon
+tin,145,tin
+tungsten,146,tungsten
+bismuth,147,bismuth
+sodium expressed as sodium chloride,148,sodium expressed as sodium chloride
+potassium expressed as potassium chloride,149,potassium expressed as potassium chloride
+theophylline,150,theophylline
+aluminum,151,aluminum
+aluminum dioxide,152,aluminum dioxide
+calcium carbonate,153,calcium carbonate
+magnesium,154,magnesium
+benzoic acid,155,benzoic acid
+cobalt,156,cobalt
+cesium,157,cesium
+europium,158,europium
+antimony,159,antimony
+scandium,160,scandium
+silver,161,silver
+lanthanum,162,lanthanum
+selenium,163,selenium
+zinc,164,zinc
+beta-phase of silicon nitride,165,beta-phase of silicon nitride
+inorganic compounds,166,inorganic compounds
+"silica, alumina",167,"silica, alumina"
+"faujasite, alumina",168,"faujasite, alumina"
+"porous glass, alumina",169,"porous glass, alumina"
+"filter tubes, flat membrane (alumina)",170,"filter tubes, flat membrane (alumina)"
+filter tubes (alumina),171,filter tubes (alumina)
+"flat membrane, (alumina)",172,"flat membrane, (alumina)"
+"BDE 47 (2,2',4,4'-tetrabromodiphenyl ether)",173,"BDE 47 (2,2',4,4'-tetrabromodiphenyl ether)"
+"BDE 183 (2,2',3,4,4',5',6-heptabromodiphenyl ether)",174,"BDE 183 (2,2',3,4,4',5',6-heptabromodiphenyl ether)"
+"BDE 206 (2,2',3,3',4,4',5,5',6-nonabromodiphenyl ether)",175,"BDE 206 (2,2',3,3',4,4',5,5',6-nonabromodiphenyl ether)"
+"BDE 99 (2,2',4,4',5-pentabromodiphenyl ether)",176,"BDE 99 (2,2',4,4',5-pentabromodiphenyl ether)"
+"BDE 100 (2,2',4,4',6-pentabromodiphenyl ether)",177,"BDE 100 (2,2',4,4',6-pentabromodiphenyl ether)"
+PBB-209 (decabromobiphenyl),178,PBB-209 (decabromobiphenyl)
+ortho-xylene,179,ortho-xylene
+PCB 70,180,PCB 70
+PCB 194,181,PCB 194
+"p,p'-DDD",182,"p,p'-DDD"
+potassium perfluorooctanesulfonate,183,potassium perfluorooctanesulfonate
+"purified peptides of known sequence up to a length of 23 amino acids. The peptide must contain minimum three AA out of the set: {L,I,V,P,F}",184,"purified peptides of known sequence up to a length of 23 amino acids. The peptide must contain minimum three AA out of the set: {L,I,V,P,F}"
+sulphamethazine,185,sulphamethazine
+PCB congeners,186,PCB congeners
+somatropin,187,somatropin
+"peptide of known sequence containing up to 15 amino acids which must contain at least three of the following AA (A,G,V,L,I,P,F,K,R)",188,"peptide of known sequence containing up to 15 amino acids which must contain at least three of the following AA (A,G,V,L,I,P,F,K,R)"
+ammonium,189,ammonium
+calcium,190,calcium
+nitrite,191,nitrite
+nitrate,192,nitrate
+barium,193,barium
+beryllium,194,beryllium
+strontium,195,strontium
+uranium,196,uranium
+vanadium,197,vanadium
+potassium,198,potassium
+sodium,199,sodium
+nitrate + nitrite,200,nitrate + nitrite
+ortho-phosphate,201,ortho-phosphate
+silicate,202,silicate
+cerium,203,cerium
+dysprosium,204,dysprosium
+erbium,205,erbium
+gadolinium,206,gadolinium
+germanium,207,germanium
+hafnium,208,hafnium
+holmium,209,holmium
+indium,210,indium
+lutetium,211,lutetium
+neodymium,212,neodymium
+niobium,213,niobium
+praseodymium,214,praseodymium
+rhenium,215,rhenium
+rhodium,216,rhodium
+rubidium,217,rubidium
+samarium,218,samarium
+sulfur,219,sulfur
+tantalum,220,tantalum
+tellurium,221,tellurium
+terbium,222,terbium
+thallium,223,thallium
+thorium,224,thorium
+thulium,225,thulium
+titanium,226,titanium
+ytterbium,227,ytterbium
+yttrium,228,yttrium
+zirconium,229,zirconium
+sulfate,230,sulfate
+fluoride,231,fluoride
+bromide,232,bromide
+phosphate,233,phosphate
+chlorine,234,chlorine
+"BDE 154 (2,2',4,4',5,6-hexabromodiphenyl ether)",235,"BDE 154 (2,2',4,4',5,6-hexabromodiphenyl ether)"
+bromine,236,bromine
+endosulfan sulfate,237,endosulfan sulfate
+melamine,238,melamine
+total bromine,239,total bromine
+3-amino-2-oxazolidinone,240,3-amino-2-oxazolidinone
+semicarbazide,241,semicarbazide
+folic acid,242,folic acid
+captopril,243,captopril
+metronidazole,244,metronidazole
+sodium diclofenac,245,sodium diclofenac
+total halides expressed as potassium chloride,246,total halides expressed as potassium chloride
+"total halides, except fluoride (F), expressed as sodium chloride",247,"total halides, except fluoride (F), expressed as sodium chloride"
+total acid expressed as hydrochloric acid,248,total acid expressed as hydrochloric acid
+water,249,water
+"n(206Pb)/n(204Pb), n(207Pb)/n(204Pb), n(208Pb)/n(204Pb), n(208Pb)/n(206Pb)",250,"n(206Pb)/n(204Pb), n(207Pb)/n(204Pb), n(208Pb)/n(204Pb), n(208Pb)/n(206Pb)"
+pentachlorophenol (PCP),251,pentachlorophenol (PCP)
+isotope ratio of 206Pb/204Pb,252,isotope ratio of 206Pb/204Pb
+isotope ratio of 207Pb/204Pb,253,isotope ratio of 207Pb/204Pb
+isotope ratio of 208Pb/204Pb,254,isotope ratio of 208Pb/204Pb
+ozone,255,ozone
+methane,256,methane
+ethane,257,ethane
+propane,258,propane
+n-butane,259,n-butane
+isobutane,260,isobutane
+carbon dioxide,261,carbon dioxide
+carbon monoxide,262,carbon monoxide
+fluoride expressed as sodium fluoride,263,fluoride expressed as sodium fluoride
+chromium (VI),264,chromium (VI)
+oxidants expressed as Cr(VI),265,oxidants expressed as Cr(VI)
+reductants expressed as As(III),266,reductants expressed as As(III)
+total halides (except F) expressed as chloride,267,total halides (except F) expressed as chloride
+total acid expressed as sulfuric acid,268,total acid expressed as sulfuric acid
+SeMet,269,SeMet
+total cholesterol,270,total cholesterol
+isobutanol,271,isobutanol
+acetaldehyde,272,acetaldehyde
+fructose,273,fructose
+nitrous oxide,274,nitrous oxide
+pentafluorobenzoic acid,275,pentafluorobenzoic acid
+valine,276,valine
+glycine,277,glycine
+alanine,278,alanine
+leucine,279,leucine
+isoleucine,280,isoleucine
+proline,281,proline
+serine,282,serine
+threonine,283,threonine
+cysteine,284,cysteine
+methionine,285,methionine
+aspartic acid,286,aspartic acid
+asparagine,287,asparagine
+glutamic acid,288,glutamic acid
+glutamine,289,glutamine
+lysine,290,lysine
+arginine,291,arginine
+histidine,292,histidine
+phenylalanine,293,phenylalanine
+tyrosine,294,tyrosine
+tryptophan,295,tryptophan
+"halides (Cl-, Br-, I-) expressed as potassium chloride",296,"halides (Cl-, Br-, I-) expressed as potassium chloride"
+Cl- ions expressed as potassium chloride,297,Cl- ions expressed as potassium chloride
+"halides (Cl-, Br-, I-) expressed as sodium chloride",298,"halides (Cl-, Br-, I-) expressed as sodium chloride"
+Cl- ions expressed as sodium chloride,299,Cl- ions expressed as sodium chloride
+low polarity low MW high purity chemical,300,low polarity low MW high purity chemical
+low polarity medium MW high purity chemical,301,low polarity medium MW high purity chemical
+high polarity low MW high purity chemical,302,high polarity low MW high purity chemical
+high polarity medium MW high purity chemical,303,high polarity medium MW high purity chemical
+nitrogen monoxide,304,nitrogen monoxide
+sulfur dioxide,305,sulfur dioxide
+hydrogen sulfide,306,hydrogen sulfide
+nitrogen dioxide,307,nitrogen dioxide
+oxygen,308,oxygen
+helium,309,helium
+total hydrocarbons,310,total hydrocarbons
+argon,311,argon
+titanium dioxide,312,titanium dioxide
+nanoporous carbon,313,nanoporous carbon
+MoCB,314,MoCB
+DiCB,315,DiCB
+TriCB,316,TriCB
+TetraCB,317,TetraCB
+PeCB,318,PeCB
+HxCB,319,HxCB
+HpCB,320,HpCB
+OcCB,321,OcCB
+NoCB,322,NoCB
+DeCB,323,DeCB
+MoBDE,324,MoBDE
+DiBDE,325,DiBDE
+TriBDE,326,TriBDE
+TetraBDE,327,TetraBDE
+PeBDE,328,PeBDE
+HxBDE,329,HxBDE
+HpBDE,330,HpBDE
+i-butane,331,i-butane
+i-pentane,332,i-pentane
+n-pentane,333,n-pentane
+selenomethionine,334,selenomethionine
+total arsenic,335,total arsenic
+MON810/hmg,336,MON810/hmg
+Genomic DNA. Copy number ratio of specified intact sequence fragments of 50 to 150 nucleotides length in a single genomic DNA extract.,337,Genomic DNA. Copy number ratio of specified intact sequence fragments of 50 to 150 nucleotides length in a single genomic DNA extract.
+"o,p'-DDT",338,"o,p'-DDT"
+alpha-HCH,339,alpha-HCH
+beta-HCH (hexachlorocyclohexane),340,beta-HCH (hexachlorocyclohexane)
+PCB 52,341,PCB 52
+PCB 138,342,PCB 138
+PCB 180,343,PCB 180
+cyanide,344,cyanide
+COD (expressed as reduction capacity of potassium biphthalate),345,COD (expressed as reduction capacity of potassium biphthalate)
+monobutyltin as tin,346,monobutyltin as tin
+tributyltin as tin,347,tributyltin as tin
+dibutlytin as tin,348,dibutlytin as tin
+arsenobetaine,349,arsenobetaine
+methylmercury,350,methylmercury
+avermectin B1a,351,avermectin B1a
+"BDE-153 (2,2',4,4',5,5'-Hexabromodiphenyl ether)",352,"BDE-153 (2,2',4,4',5,5'-Hexabromodiphenyl ether)"
+carbon black,353,carbon black
+"silica, alumina and other mesoporous materials",354,"silica, alumina and other mesoporous materials"
+cortisol,355,cortisol
+PCB 118,356,PCB 118
+aldosterone,357,aldosterone
+"PBDEs, PAHs, PCBs Low polarity pesticides (<500Mwt)Perfluorinated carboxylic acids ( <C12) Perfluorinated sulphonates (<C12)",358,"PBDEs, PAHs, PCBs Low polarity pesticides (<500Mwt)Perfluorinated carboxylic acids ( <C12) Perfluorinated sulphonates (<C12)"
+total silicon as silicon (IV) oxide,359,total silicon as silicon (IV) oxide
+total iron,360,total iron
+total manganese as manganese (II) oxide,361,total manganese as manganese (II) oxide
+total silicon as silicon oxide,362,total silicon as silicon oxide
+chloride expressed as potassium chloride,363,chloride expressed as potassium chloride
+chloramphenicol,364,chloramphenicol
+amino acid with molecular weight less than 300,365,amino acid with molecular weight less than 300
+alpha-BHC,366,alpha-BHC
+beta-BHC,367,beta-BHC
+delta-BHC,368,delta-BHC
+gamma-BHC,369,gamma-BHC
+endosulfan I (alpha),370,endosulfan I (alpha)
+endosulfan II (beta),371,endosulfan II (beta)
+endrin aldehyde,372,endrin aldehyde
+endrin ketone,373,endrin ketone
+riboflavin,374,riboflavin
+benzo[a]fluoranthene,375,benzo[a]fluoranthene
+biphenyl,376,biphenyl
+perylene,377,perylene
+atrazine,378,atrazine
+formaldehyde,379,formaldehyde
+free calcium ions,380,free calcium ions
+free sodium ions,381,free sodium ions
+free potassium ions,382,free potassium ions
+free chloride ions,383,free chloride ions
+carbamazepine,384,carbamazepine
+diclofenac,385,diclofenac
+oxazepam,386,oxazepam
+17alpha-ethynylestradiol,387,17alpha-ethynylestradiol
+17beta-estradiol,388,17beta-estradiol
+estrone,389,estrone
+progesterone,390,progesterone
+THC-9-COOH,391,THC-9-COOH
+chlorine (as chloride),392,chlorine (as chloride)
+clenbuterol,393,clenbuterol
+acrylamide,394,acrylamide
+ochratoxin A,395,ochratoxin A
+uranium n(234U)/n(238U),396,uranium n(234U)/n(238U)
+uranium n(235U)/n(238U),397,uranium n(235U)/n(238U)
+uranium n(236U)/n(238U),398,uranium n(236U)/n(238U)
+"cationic electrolytes: K, Ca, Mg, Li, Sr",399,"cationic electrolytes: K, Ca, Mg, Li, Sr"
+"essential elements: Fe, Zn, Cu, Se",400,"essential elements: Fe, Zn, Cu, Se"
+"toxic elements: Ti, Cr, Pb, Cd, Ag, Sb, Sn, Hg, Mo, V, Ba",401,"toxic elements: Ti, Cr, Pb, Cd, Ag, Sb, Sn, Hg, Mo, V, Ba"
+lysergide,402,lysergide
+thyroxine,403,thyroxine
+testosterone,404,testosterone
+19-norandrosterone,405,19-norandrosterone
+testosterone glucuronide,406,testosterone glucuronide
+digoxin,407,digoxin
+linearised Plasmid DNA (4.4 ± 1) kbp,408,linearised Plasmid DNA (4.4 ± 1) kbp
+total malachite green (malachite green and leuco-malachite green),409,total malachite green (malachite green and leuco-malachite green)
+Genomic DNA. Copy number ratio of specified intact sequence fragments of 70 to 150 nucleotides length in a single genomic DNA extract,410,Genomic DNA. Copy number ratio of specified intact sequence fragments of 70 to 150 nucleotides length in a single genomic DNA extract
+d13C(VPDB-LSVEC),411,d13C(VPDB-LSVEC)
+"essential elements: Cu, Fe, Se, Zn, I",412,"essential elements: Cu, Fe, Se, Zn, I"
+specified intact sequence fragments of a length up to 150 nucleotides in a single genomic DNA extract,413,specified intact sequence fragments of a length up to 150 nucleotides in a single genomic DNA extract
+"electrolytes (Na, Cl, K)",414,"electrolytes (Na, Cl, K)"
+"trace elements (Cu, Se)",415,"trace elements (Cu, Se)"
+25-hydroxyvitamin D2,416,25-hydroxyvitamin D2
+25-hydroxyvitamin D3,417,25-hydroxyvitamin D3
+3-epi-25-Hydroxyvitamin D3,418,3-epi-25-Hydroxyvitamin D3
+linearised plasmid DNA between 3 kbp and 6 kbp,419,linearised plasmid DNA between 3 kbp and 6 kbp
+sulfadimethoxine,420,sulfadimethoxine
+iodine,421,iodine
+d15N/14N,422,d15N/14N
+d13C/12C,423,d13C/12C
+beta-cyanoalanine,424,beta-cyanoalanine
+gamma-glutamyl beta-cyanoalanine,425,gamma-glutamyl beta-cyanoalanine
+Genomic DNA. Copy number ratio of specified intact sequence fragments of 60 to 150 nucleotides length in a single genomic DNA extract,426,Genomic DNA. Copy number ratio of specified intact sequence fragments of 60 to 150 nucleotides length in a single genomic DNA extract
+[…]specified intact sequence fragments of a length up to 150 nucleotides […],427,[…]specified intact sequence fragments of a length up to 150 nucleotides […]
+methylparaben,428,methylparaben
+n-butyl paraben (n-butyl 4-hydroxybenzoate),429,n-butyl paraben (n-butyl 4-hydroxybenzoate)
+sorbic acid,430,sorbic acid
+propionic acid,431,propionic acid
+benzoates,432,benzoates
+sorbates,433,sorbates
+butan-2-ol,434,butan-2-ol
+butan-1-ol,435,butan-1-ol
+propan-1-ol,436,propan-1-ol
+ethyl carbamate,437,ethyl carbamate
+carbonyl sulfide,438,carbonyl sulfide
+hydrogen chloride,439,hydrogen chloride
+ammonia,440,ammonia
+"1,3-butadiene",441,"1,3-butadiene"
+ethyne,442,ethyne
+ethene,443,ethene
+propene,444,propene
+1-butene,445,1-butene
+cis-2-butene,446,cis-2-butene
+trans-2-butene,447,trans-2-butene
+"2-methyl-1,3-butadiene",448,"2-methyl-1,3-butadiene"
+cis-2-pentene,449,cis-2-pentene
+trans-2-pentene,450,trans-2-pentene
+isopentane,451,isopentane
+3-methylpentane,452,3-methylpentane
+2-methylpentane,453,2-methylpentane
+isobutylene,454,isobutylene
+"2,3-methyl-pentane",455,"2,3-methyl-pentane"
+cyclohexane,456,cyclohexane
+propyne,457,propyne
+dichloromethane,458,dichloromethane
+trichlorofluoromethane,459,trichlorofluoromethane
+"1,1-dichloroethene",460,"1,1-dichloroethene"
+"1,2-dichloropropane",461,"1,2-dichloropropane"
+trichloroethene,462,trichloroethene
+"1,2-dibromoethane",463,"1,2-dibromoethane"
+tetrachloroethene,464,tetrachloroethene
+chlorobenzene,465,chlorobenzene
+"1,2-dichlorobenzene",466,"1,2-dichlorobenzene"
+"trans-1,3-dichloropropene",467,"trans-1,3-dichloropropene"
+acetone,468,acetone
+methylethyl ketone,469,methylethyl ketone
+ethanethiol,470,ethanethiol
+methylsulphide,471,methylsulphide
+2-methylbutane,472,2-methylbutane
+1-pentene,473,1-pentene
+"2,2,4-trimethylpentane",474,"2,2,4-trimethylpentane"
+carbon disulfide,475,carbon disulfide
+dimethyl sulfide,476,dimethyl sulfide
+ethyl methyl sulfide,477,ethyl methyl sulfide
+diethyl sulfide,478,diethyl sulfide
+methanethiol,479,methanethiol
+2-propanethiol,480,2-propanethiol
+1-propanethiol,481,1-propanethiol
+2-methyl-2-propanethiol,482,2-methyl-2-propanethiol
+butanethiol,483,butanethiol
+tetrahydrothiophene,484,tetrahydrothiophene
+neo-pentane,485,neo-pentane
+airborne particles,486,airborne particles
+methylacrylate,487,methylacrylate
+ethyl acrylate,488,ethyl acrylate
+total hydrocarbon compounds,489,total hydrocarbon compounds
+total sulfur compounds,490,total sulfur compounds
+bisphenol A,491,bisphenol A
+"trans-1,2-dichloroethene",492,"trans-1,2-dichloroethene"
+diethyl phthalate,493,diethyl phthalate
+di-n-butyl phthalate,494,di-n-butyl phthalate
+bis(2-ethylhexyl)phthalate,495,bis(2-ethylhexyl)phthalate
+di-n-propyl phthalate,496,di-n-propyl phthalate
+di-n-pentyl phthalate,497,di-n-pentyl phthalate
+di-n-hexyl phthalate,498,di-n-hexyl phthalate
+di-cyclohexyl phthalate,499,di-cyclohexyl phthalate
+butyl benzyl phthalate,500,butyl benzyl phthalate
+base expressed as sodium carbonate,501,base expressed as sodium carbonate
+"cis-1,2-dichloroethene",502,"cis-1,2-dichloroethene"
+"cis-1,3-dichloropropene",503,"cis-1,3-dichloropropene"
+"1,4–dichlorobenzene",504,"1,4–dichlorobenzene"
+"1,1-dichloroethylene",505,"1,1-dichloroethylene"
+lysine monohydrochloride (HCl),506,lysine monohydrochloride (HCl)
+4-n-nonylphenol,507,4-n-nonylphenol
+4-t-octylphenol,508,4-t-octylphenol
+4-t-butylphenol,509,4-t-butylphenol
+4-n-heptylphenol,510,4-n-heptylphenol
+"2,4-dichlorophenol",511,"2,4-dichlorophenol"
+perfluorooctanoic acid,512,perfluorooctanoic acid
+simazine,513,simazine
+thiuram,514,thiuram
+thiobencarb,515,thiobencarb
+chloride expressed as sodium chloride,516,chloride expressed as sodium chloride
+ammonium expressed as ammonium chloride,517,ammonium expressed as ammonium chloride
+chloride expressed as ammonium chloride,518,chloride expressed as ammonium chloride
+acid expressed as potassium hydrogen phthalate,519,acid expressed as potassium hydrogen phthalate
+reductants expressed as arsenic(III) trioxide,520,reductants expressed as arsenic(III) trioxide
+acid expressed as amidosulfuric acid,521,acid expressed as amidosulfuric acid
+oxidant expressed as potassium iodate,522,oxidant expressed as potassium iodate
+reductants expressed as sodium oxalate,523,reductants expressed as sodium oxalate
+total base expressed as tris(hydroxymethyl)aminomethane,524,total base expressed as tris(hydroxymethyl)aminomethane
+triolein,525,triolein
+cystine,526,cystine
+"1,4-dioxane",527,"1,4-dioxane"
+tert-butyl methyl ether,528,tert-butyl methyl ether
+chlorinated pesticides,529,chlorinated pesticides
+"1,2,4,5-tetrachloro-3-nitrobenzene",530,"1,2,4,5-tetrachloro-3-nitrobenzene"
+"O,O-dimethyl S-[2-(methylamino)-2-oxoethyl] phosphorodithioate",531,"O,O-dimethyl S-[2-(methylamino)-2-oxoethyl] phosphorodithioate"
+malathion,532,malathion
+"2,6-di-tert-butyl-4-methyl-phenol or BHT",533,"2,6-di-tert-butyl-4-methyl-phenol or BHT"
+"2,3-dihydro-1,2-benzisothiazol-3-one-1,1dioxide or 1,2-Benzisothiazolin-3-one,1,1-dioxide",534,"2,3-dihydro-1,2-benzisothiazol-3-one-1,1dioxide or 1,2-Benzisothiazolin-3-one,1,1-dioxide"
+organophosphate pesticides,535,organophosphate pesticides
+PCBs,536,PCBs
+"aromatic hydrocarbons, compounds with less than 20 C atoms",537,"aromatic hydrocarbons, compounds with less than 20 C atoms"
+nicotine,538,nicotine
+PCB 77,539,PCB 77
+PCB 126,540,PCB 126
+PCB 169,541,PCB 169
+3-tert-butyl-4-hydroxyanisole,542,3-tert-butyl-4-hydroxyanisole
+"potassium 2,4-hexadienoate",543,"potassium 2,4-hexadienoate"
+chlorpyrifos,544,chlorpyrifos
+N-ethyl-N-[2-(1-isobutoxyethoxy)ethyl]ethyl]-4-(phenylazo)aniline,545,N-ethyl-N-[2-(1-isobutoxyethoxy)ethyl]ethyl]-4-(phenylazo)aniline
+leucomalachite green,546,leucomalachite green
+tacrolimus,547,tacrolimus
+malachite green oxalate,548,malachite green oxalate
+13C/12C,549,13C/12C
+sirolimus,550,sirolimus
+chemically synthesized linear peptides of known sequence up to 5kDa without sulphur bridges with a content of peptidic impurities between 0 and 15%,551,chemically synthesized linear peptides of known sequence up to 5kDa without sulphur bridges with a content of peptidic impurities between 0 and 15%
+high polarity organic compounds with Mwt between 300 and 500,552,high polarity organic compounds with Mwt between 300 and 500
+hydrogen ion,553,hydrogen ion
+nitrite content expressed as N,554,nitrite content expressed as N
+arsenious acid,555,arsenious acid
+arsenic acid,556,arsenic acid
+monomethylarsonic acid,557,monomethylarsonic acid
+dimethylarsinic acid,558,dimethylarsinic acid
+arsenocholine,559,arsenocholine
+selenite,560,selenite
+selenate,561,selenate
+seleno-cystine,562,seleno-cystine
+(methyl)seleno-cysteine,563,(methyl)seleno-cysteine
+reductant expressed as sodium thiosulfate,564,reductant expressed as sodium thiosulfate
+oxidant expressed as potassium permanganate,565,oxidant expressed as potassium permanganate
+argentometric standard expressed as silver nitrate,566,argentometric standard expressed as silver nitrate
+acid expressed as hydrochloric acid,567,acid expressed as hydrochloric acid
+oxidant expressed as iodine,568,oxidant expressed as iodine
+complexing agent expressed as ethylenediamine tetraacetic acid disodium,569,complexing agent expressed as ethylenediamine tetraacetic acid disodium
+complexometric calibrant which chelate complex with EDTA expressed as zinc,570,complexometric calibrant which chelate complex with EDTA expressed as zinc
+argentometric calibrant expressed as chloride,571,argentometric calibrant expressed as chloride
+"o,p'-DDD",572,"o,p'-DDD"
+PCB 152,573,PCB 152
+"total of tetra-,penta-,hexa-chlorinated biphenyls",574,"total of tetra-,penta-,hexa-chlorinated biphenyls"
+"2,3,7,8-tetrachlorodibenzo-p-dioxin",575,"2,3,7,8-tetrachlorodibenzo-p-dioxin"
+"1,3-dinitropyrene",576,"1,3-dinitropyrene"
+"1,6-dinitropyrene",577,"1,6-dinitropyrene"
+"1,8-dinitropyrene",578,"1,8-dinitropyrene"
+1-nitropyrene,579,1-nitropyrene
+2-nitrofluorene,580,2-nitrofluorene
+3-nitrofluoranthene,581,3-nitrofluoranthene
+6-nitrochrysene,582,6-nitrochrysene
+7-nitrobenz[a]anthracene,583,7-nitrobenz[a]anthracene
+9-nitroanthracene,584,9-nitroanthracene
+1-methylnaphthalene,585,1-methylnaphthalene
+1-methylphenanthrene,586,1-methylphenanthrene
+"2,3,5-trimethylnaphthalene",587,"2,3,5-trimethylnaphthalene"
+"2,6-dimethylnaphthalene",588,"2,6-dimethylnaphthalene"
+benzo[e]pyrene,589,benzo[e]pyrene
+acenaphthene-d10,590,acenaphthene-d10
+benzo[a]anthracene-d12,591,benzo[a]anthracene-d12
+benzo[a]pyrene-d12,592,benzo[a]pyrene-d12
+biphenyl-d10,593,biphenyl-d10
+fluoranthene-d10,594,fluoranthene-d10
+naphthalene-d8,595,naphthalene-d8
+perylene-d12,596,perylene-d12
+phenanthrene-d10,597,phenanthrene-d10
+pyrene-d10,598,pyrene-d10
+PCB 1,599,PCB 1
+PCB 104,600,PCB 104
+PCB 128,601,PCB 128
+PCB 18,602,PCB 18
+PCB 187,603,PCB 187
+PCB 188,604,PCB 188
+PCB 195,605,PCB 195
+PCB 201,606,PCB 201
+PCB 206,607,PCB 206
+PCB 209,608,PCB 209
+PCB 29,609,PCB 29
+PCB 44,610,PCB 44
+PCB 66,611,PCB 66
+PCB 8,612,PCB 8
+PCB 87,613,PCB 87
+alpha-hexachlorocyclohexane,614,alpha-hexachlorocyclohexane
+cis-nonachlor,615,cis-nonachlor
+gamma-chlordane,616,gamma-chlordane
+gamma-hexachlorocyclohexane,617,gamma-hexachlorocyclohexane
+oxychlordane,618,oxychlordane
+nitrobenzene,619,nitrobenzene
+benzophenone,620,benzophenone
+methyl tearate,621,methyl tearate
+"2,4,6-trichlorophenol",622,"2,4,6-trichlorophenol"
+"2,4-dimethylphenol",623,"2,4-dimethylphenol"
+2-chlorophenol,624,2-chlorophenol
+2-nitrophenol,625,2-nitrophenol
+"4,6-dinitro-o-cresol",626,"4,6-dinitro-o-cresol"
+4-chloro-m-cresol,627,4-chloro-m-cresol
+4-nitrophenol,628,4-nitrophenol
+phenol,629,phenol
+"2,4-dichlorophenol-d3",630,"2,4-dichlorophenol-d3"
+2-nitrophenol-d4,631,2-nitrophenol-d4
+benzene-d6,632,benzene-d6
+carbon tetrachloride-13C,633,carbon tetrachloride-13C
+chlorobenzene-d5,634,chlorobenzene-d5
+nitrobenzene-d5,635,nitrobenzene-d5
+phenol-d5,636,phenol-d5
+xylene,637,xylene
+hexane,638,hexane
+ethylene,639,ethylene
+chloromethane,640,chloromethane
+vinyl chloride,641,vinyl chloride
+chloroethane,642,chloroethane
+"1,1-dichloroethane",643,"1,1-dichloroethane"
+"1,3-dichlorobenzene",644,"1,3-dichlorobenzene"
+"1,2,4-trichlorobenzene",645,"1,2,4-trichlorobenzene"
+"hexachloro-1,3-butadiene",646,"hexachloro-1,3-butadiene"
+bromobenzene,647,bromobenzene
+bromomethane,648,bromomethane
+acetonitrile,649,acetonitrile
+acrylonitrile,650,acrylonitrile
+ethylene oxide,651,ethylene oxide
+propylene oxide,652,propylene oxide
+pentafluoroethane,653,pentafluoroethane
+isoprene,654,isoprene
+propylbenzene,655,propylbenzene
+tetrafluoromethane,656,tetrafluoromethane
+hexafluoroethane,657,hexafluoroethane
+2-propanol,658,2-propanol
+n-butanol,659,n-butanol
+vinyl acetate,660,vinyl acetate
+ethyl acetate,661,ethyl acetate
+tert-butyl formate,662,tert-butyl formate
+tert-butyl ethyl ether,663,tert-butyl ethyl ether
+tert-amyl methyl ether,664,tert-amyl methyl ether
+benzyl chloride,665,benzyl chloride
+4-ethyltoluene,666,4-ethyltoluene
+alpha-pinene,667,alpha-pinene
+sulfur hexafluoride,668,sulfur hexafluoride
+2-methyl-2-butene,669,2-methyl-2-butene
+"2,3-dimethylbutane",670,"2,3-dimethylbutane"
+"2,2,3-trimethylbutane",671,"2,2,3-trimethylbutane"
+3-methylhexane,672,3-methylhexane
+3-methylheptane,673,3-methylheptane
+methylcyclopentane,674,methylcyclopentane
+methylcyclohexane,675,methylcyclohexane
+"2,2-dimethylhexane",676,"2,2-dimethylhexane"
+undecane,677,undecane
+dodecane,678,dodecane
+tridecane,679,tridecane
+tetradecane,680,tetradecane
+pentadecane,681,pentadecane
+hexadecane,682,hexadecane
+difluorochloromethane (HCFC-22),683,difluorochloromethane (HCFC-22)
+"1,2-dichlorotetrafluoroethane (CFC-114)",684,"1,2-dichlorotetrafluoroethane (CFC-114)"
+dichlorodifluoromethane (CFC-12),685,dichlorodifluoromethane (CFC-12)
+"1,1,2-trichlorotrifluoroethane (CFC-113)",686,"1,1,2-trichlorotrifluoroethane (CFC-113)"
+"1-chloro-1,1-difluoroethane (HCFC-142b)",687,"1-chloro-1,1-difluoroethane (HCFC-142b)"
+"1,1,1,2-tetrafluoroethane (HFC-134a)",688,"1,1,1,2-tetrafluoroethane (HFC-134a)"
+higher hydrocarbons,689,higher hydrocarbons
+nitrogen oxides,690,nitrogen oxides
+butanol,691,butanol
+acrolein,692,acrolein
+hexanal,693,hexanal
+decanal,694,decanal
+furfural,695,furfural
+cyclohexanone,696,cyclohexanone
+neon,697,neon
+krypton,698,krypton
+i-butene,699,i-butene
+2-butanone,700,2-butanone
+halothane,701,halothane
+n-propanol,702,n-propanol
+methylmercaptan,703,methylmercaptan
+ethyl mercaptan,704,ethyl mercaptan
+total nitrogen oxides,705,total nitrogen oxides
+xenon,706,xenon
+acetylene,707,acetylene
+carbon tetrafluoride,708,carbon tetrafluoride
+trifluoromethane,709,trifluoromethane
+nitrogen trifluoride,710,nitrogen trifluoride
+dimethyl disulfide,711,dimethyl disulfide
+diethyl disulfide,712,diethyl disulfide
+2-butanethiol,713,2-butanethiol
+domoic acid (DA) and epi-domoic acid (epi-DA),714,domoic acid (DA) and epi-domoic acid (epi-DA)
+"azaspiracids (AZA1, AZA2, AZA3)",715,"azaspiracids (AZA1, AZA2, AZA3)"
+ethosuximide,716,ethosuximide
+phenobarbital,717,phenobarbital
+phenytoin,718,phenytoin
+primidone,719,primidone
+total glycerides,720,total glycerides
+triglycerides,721,triglycerides
+alpha-tocopherol,722,alpha-tocopherol
+beta-carotene,723,beta-carotene
+delta-tocopherol,724,delta-tocopherol
+gamma-tocopherol,725,gamma-tocopherol
+trans-beta-carotene,726,trans-beta-carotene
+trans-retinol,727,trans-retinol
+PCB 149,728,PCB 149
+PCB 151,729,PCB 151
+PCB 156,730,PCB 156
+PCB 183,731,PCB 183
+PCB 99,732,PCB 99
+total protein,733,total protein
+benzoylecgonine,734,benzoylecgonine
+cocaine,735,cocaine
+codeine,736,codeine
+morphine,737,morphine
+phencyclidine,738,phencyclidine
+trans-chlordane,739,trans-chlordane
+benzo[b]chrysene,740,benzo[b]chrysene
+picene,741,picene
+triphenylene,742,triphenylene
+PCB 110,743,PCB 110
+PCB 31,744,PCB 31
+PCB 49,745,PCB 49
+PCB 95,746,PCB 95
+methylmercury (as mercury),747,methylmercury (as mercury)
+6-monoacetylmorphine,748,6-monoacetylmorphine
+amphetamine,749,amphetamine
+cocaethylene,750,cocaethylene
+methamphetamine,751,methamphetamine
+epitestosterone,752,epitestosterone
+androsterone,753,androsterone
+etiocholanolone,754,etiocholanolone
+17-epimethandienone,755,17-epimethandienone
+3'-hydroxystanozolol,756,3'-hydroxystanozolol
+testosterone glucuronide (Na salt),757,testosterone glucuronide (Na salt)
+epitestosterone glucuronide,758,epitestosterone glucuronide
+acetyl codeine,759,acetyl codeine
+methamphetamine hydrochloride,760,methamphetamine hydrochloride
+6-monoacetyl morphine,761,6-monoacetyl morphine
+methandienone,762,methandienone
+17alpha-trenbolone,763,17alpha-trenbolone
+megestrol,764,megestrol
+melengesterol,765,melengesterol
+heroin,766,heroin
+"N-methyl-3,4-methylenedioxy methamphetamine hydrochloride (MDMA.HCl)",767,"N-methyl-3,4-methylenedioxy methamphetamine hydrochloride (MDMA.HCl)"
+methylenedioxyamphetamine hydrochloride (MDA.HCl),768,methylenedioxyamphetamine hydrochloride (MDA.HCl)
+dibromo-DDE,769,dibromo-DDE
+fipronil,770,fipronil
+(±)-Amphetamine hydrochloride,771,(±)-Amphetamine hydrochloride
+(±)-Amphetamine sulphate,772,(±)-Amphetamine sulphate
+d-(+)-Amphetamine sulfate,773,d-(+)-Amphetamine sulfate
+"(±)-4-Bromo-2,5-dimethoxyamphetamine hydrochloride (DOB)",774,"(±)-4-Bromo-2,5-dimethoxyamphetamine hydrochloride (DOB)"
+clobenzorex hydrochloride,775,clobenzorex hydrochloride
+"(±)-2,5-Dimethoxyamphetamine hydrochloride",776,"(±)-2,5-Dimethoxyamphetamine hydrochloride"
+"(±)-2,5-Dimethoxy-4-methylamphetamine hydrochloride (DOM)",777,"(±)-2,5-Dimethoxy-4-methylamphetamine hydrochloride (DOM)"
+"(±)-3,4-Dimethoxyamphetamine hydrochloride",778,"(±)-3,4-Dimethoxyamphetamine hydrochloride"
+"(±)-N,N-Dimethylamphetamine hydrochloride",779,"(±)-N,N-Dimethylamphetamine hydrochloride"
+"(±)-N,N-Dimethyl-3,4-methylenedioxyamphetamine hydrochloride",780,"(±)-N,N-Dimethyl-3,4-methylenedioxyamphetamine hydrochloride"
+(±)-N-Ethylamphetamine hydrochloride,781,(±)-N-Ethylamphetamine hydrochloride
+"(±)-N-Ethyl-3,4-methylenedioxyamphetamine hydrochloride (MDEA)",782,"(±)-N-Ethyl-3,4-methylenedioxyamphetamine hydrochloride (MDEA)"
+fenproporex hydrochloride,783,fenproporex hydrochloride
+(±)-3-Fluoroamphetamine hydrochloride,784,(±)-3-Fluoroamphetamine hydrochloride
+(±)-2-Fluoromethamphetamine hydrochloride,785,(±)-2-Fluoromethamphetamine hydrochloride
+(±)-3-Fluoromethamphetamine hydrochloride,786,(±)-3-Fluoromethamphetamine hydrochloride
+(±)-4-Hydroxyamphetamine hydrochloride (HMA),787,(±)-4-Hydroxyamphetamine hydrochloride (HMA)
+(±)-4-Methoxyamphetamine hydrochloride (PMA),788,(±)-4-Methoxyamphetamine hydrochloride (PMA)
+(±)-4-Methoxymethamphetamine hydrochloride (PMMA),789,(±)-4-Methoxymethamphetamine hydrochloride (PMMA)
+(±)-4-Methylamphetamine hydrochloride,790,(±)-4-Methylamphetamine hydrochloride
+(±)-4-Methylmethamphetamine hydrochloride,791,(±)-4-Methylmethamphetamine hydrochloride
+"(±)-N-Propyl-3,4-methylenedioxyamphetamine hydrochloride",792,"(±)-N-Propyl-3,4-methylenedioxyamphetamine hydrochloride"
+selegiline hydrochloride,793,selegiline hydrochloride
+"(±)-3,4,5-Trimethoxyamphetamine hydrochloride (TMA)",794,"(±)-3,4,5-Trimethoxyamphetamine hydrochloride (TMA)"
+cathine hydrochloride,795,cathine hydrochloride
+buprenorphine,796,buprenorphine
+caffeine,797,caffeine
+methylcodeine,798,methylcodeine
+pholcodine,799,pholcodine
+AM 2201,800,AM 2201
+etomidate,801,etomidate
+fentanyl,802,fentanyl
+flunitrazepam,803,flunitrazepam
+1-Pentyl-3-(1-naphthoyl)indole,804,1-Pentyl-3-(1-naphthoyl)indole
+4-Ethylnaphthalen-1-yl-(1-pentylindol-3-yl)methanone,805,4-Ethylnaphthalen-1-yl-(1-pentylindol-3-yl)methanone
+5-Methoxy-a-methyltryptamine,806,5-Methoxy-a-methyltryptamine
+"androstan-4,6-diene-17b-ol-3-one",807,"androstan-4,6-diene-17b-ol-3-one"
+"5a-Androstan-3a,17b-diol-17-O-b-glucuronic acid",808,"5a-Androstan-3a,17b-diol-17-O-b-glucuronic acid"
+"5a-Androstan-3a,17b-diol-3-O-b-glucuronic acid",809,"5a-Androstan-3a,17b-diol-3-O-b-glucuronic acid"
+"5b-Androstan-3a,17b-diol-17-O-b-glucuronic acid",810,"5b-Androstan-3a,17b-diol-17-O-b-glucuronic acid"
+"5b-Androstan-3a,17b-diol-3-O-b-glucuronic acid",811,"5b-Androstan-3a,17b-diol-3-O-b-glucuronic acid"
+dehydro epiandrosterone,812,dehydro epiandrosterone
+CIR of organic chemicals with molecular weight below 1000 g/mol,813,CIR of organic chemicals with molecular weight below 1000 g/mol
+beta-HCH,814,beta-HCH
+delta-HCH,815,delta-HCH
+tartrazine,816,tartrazine
+sunset yellow,817,sunset yellow
+tsumacide,818,tsumacide
+carbaryl,819,carbaryl
+isoprocard,820,isoprocard
+isotope ratio of 144Sm/152Sm,821,isotope ratio of 144Sm/152Sm
+isotope ratio of 147Sm/152Sm,822,isotope ratio of 147Sm/152Sm
+isotope ratio of 148Sm/152Sm,823,isotope ratio of 148Sm/152Sm
+isotope ratio of 149Sm/152Sm,824,isotope ratio of 149Sm/152Sm
+isotope ratio of 150Sm/152Sm,825,isotope ratio of 150Sm/152Sm
+isotope ratio of 154Sm/152Sm,826,isotope ratio of 154Sm/152Sm
+isotope ratio of 64Zn/66Zn,827,isotope ratio of 64Zn/66Zn
+isotope ratio of 67Zn/66Zn,828,isotope ratio of 67Zn/66Zn
+isotope ratio of 68Zn/66Zn,829,isotope ratio of 68Zn/66Zn
+isotope ratio of 70Zn/66Zn,830,isotope ratio of 70Zn/66Zn
+isotope ratio of 142Nd/144Nd,831,isotope ratio of 142Nd/144Nd
+isotope ratio of 143Nd/144Nd,832,isotope ratio of 143Nd/144Nd
+isotope ratio of 145Nd/144Nd,833,isotope ratio of 145Nd/144Nd
+isotope ratio of 146Nd/144Nd,834,isotope ratio of 146Nd/144Nd
+isotope ratio of 148Nd/144Nd,835,isotope ratio of 148Nd/144Nd
+isotope ratio of 150Nd/144Nd,836,isotope ratio of 150Nd/144Nd
+isotope ratio of 121Sb/123Sb,837,isotope ratio of 121Sb/123Sb
+isotope ratio of 136Ce/140Ce,838,isotope ratio of 136Ce/140Ce
+isotope ratio of 138Ce/140Ce,839,isotope ratio of 138Ce/140Ce
+isotope ratio of 142Ce/140Ce,840,isotope ratio of 142Ce/140Ce
+isotope ratio of 156Dy/162Dy,841,isotope ratio of 156Dy/162Dy
+isotope ratio of 158Dy/162Dy,842,isotope ratio of 158Dy/162Dy
+isotope ratio of 160Dy/162Dy,843,isotope ratio of 160Dy/162Dy
+isotope ratio of 161Dy/162Dy,844,isotope ratio of 161Dy/162Dy
+isotope ratio of 163Dy/162Dy,845,isotope ratio of 163Dy/162Dy
+isotope ratio of 164Dy/162Dy,846,isotope ratio of 164Dy/162Dy
+isotope ratio of 162Er/166Er,847,isotope ratio of 162Er/166Er
+isotope ratio of 164Er/166Er,848,isotope ratio of 164Er/166Er
+isotope ratio of 167Er/166Er,849,isotope ratio of 167Er/166Er
+isotope ratio of 168Er/166Er,850,isotope ratio of 168Er/166Er
+isotope ratio of 170Er/166Er,851,isotope ratio of 170Er/166Er
+isotope ratio of 151Eu/153Eu,852,isotope ratio of 151Eu/153Eu
+monocrotophos,853,monocrotophos
+isocarbophos,854,isocarbophos
+fenamiphos,855,fenamiphos
+methomyl,856,methomyl
+amitraz,857,amitraz
+buprofezine,858,buprofezine
+bifenthrin,859,bifenthrin
+permethrin,860,permethrin
+paclobutrazol,861,paclobutrazol
+nitrofen,862,nitrofen
+prometryn,863,prometryn
+"2,4-D butylate",864,"2,4-D butylate"
+quintozene,865,quintozene
+triadimefon,866,triadimefon
+chlorothalonil,867,chlorothalonil
+potassium acesulfame,868,potassium acesulfame
+sodium cyclamate,869,sodium cyclamate
+isotope ratio of 54Fe/56Fe,870,isotope ratio of 54Fe/56Fe
+isotope ratio of 57Fe/56Fe,871,isotope ratio of 57Fe/56Fe
+isotope ratio of 58Fe/56Fe,872,isotope ratio of 58Fe/56Fe
+dipterex,873,dipterex
+deltamethrin,874,deltamethrin
+cypermethrin (total),875,cypermethrin (total)
+methylhydroxybenzoate,876,methylhydroxybenzoate
+ethyl hydroxybenzoate,877,ethyl hydroxybenzoate
+n-propyl hydroxybenzoate,878,n-propyl hydroxybenzoate
+iso-propyl hydroxybenzoate,879,iso-propyl hydroxybenzoate
+n-butyl hydroxybenzoate,880,n-butyl hydroxybenzoate
+calcium propionate,881,calcium propionate
+sodium propionate,882,sodium propionate
+methidathion,883,methidathion
+fomesafen,884,fomesafen
+diazion,885,diazion
+parathion-methyl,886,parathion-methyl
+endosulfan,887,endosulfan
+acephate,888,acephate
+trifluralin,889,trifluralin
+cyromazine,890,cyromazine
+tricyclazole,891,tricyclazole
+thiabendazole,892,thiabendazole
+procymidone,893,procymidone
+tebuconazole,894,tebuconazole
+triadimenol,895,triadimenol
+chlorotoluron,896,chlorotoluron
+diniconazole,897,diniconazole
+pendimethalin,898,pendimethalin
+imazalil,899,imazalil
+iprodione,900,iprodione
+esfenvalerate,901,esfenvalerate
+pirimicarb,902,pirimicarb
+oxadiazon,903,oxadiazon
+paraquat,904,paraquat
+diflubenzuron,905,diflubenzuron
+phorate,906,phorate
+chlorbenzuron,907,chlorbenzuron
+phoxim,908,phoxim
+diquat,909,diquat
+fluroxypyr,910,fluroxypyr
+cartap,911,cartap
+alachlor,912,alachlor
+diphenylamine,913,diphenylamine
+acifluorfene,914,acifluorfene
+clofentezine,915,clofentezine
+chlorpyrifos-methyl,916,chlorpyrifos-methyl
+"cytidine-5,-monophosphoric acid",917,"cytidine-5,-monophosphoric acid"
+"guanosine-5,-monophosphoric acid disodium salt",918,"guanosine-5,-monophosphoric acid disodium salt"
+"uridine-5,-monophosphoric acid disodium salt",919,"uridine-5,-monophosphoric acid disodium salt"
+adenosine,920,adenosine
+uridine,921,uridine
+2’-deoxyadenosine-5’- monophosphate,922,2’-deoxyadenosine-5’- monophosphate
+2'-deoxycytidine 5'-monophosphate,923,2'-deoxycytidine 5'-monophosphate
+2'-deoxyguanosine 5'-monophosphate,924,2'-deoxyguanosine 5'-monophosphate
+thymidine 5'-monophosphate,925,thymidine 5'-monophosphate
+"adenosine 3',5'-cyclic monophosphate",926,"adenosine 3',5'-cyclic monophosphate"
+disodium inosinate,927,disodium inosinate
+5-methylcytidine,928,5-methylcytidine
+glycitin,929,glycitin
+ephedrine hydrochloride,930,ephedrine hydrochloride
+rutin,931,rutin
+thiamine hydrochloride,932,thiamine hydrochloride
+oleanolic acid,933,oleanolic acid
+ursolic acid,934,ursolic acid
+4-methylumbelliferyl,935,4-methylumbelliferyl
+glucose,936,glucose
+galactose,937,galactose
+xylose,938,xylose
+crystal violet chloride,939,crystal violet chloride
+leucocrystal violet,940,leucocrystal violet
+furaltadone hydrochloride,941,furaltadone hydrochloride
+cis-permethrin,942,cis-permethrin
+trans-permethrin,943,trans-permethrin
+lambda-cyhalothrin,944,lambda-cyhalothrin
+triazophos,945,triazophos
+etofenprox,946,etofenprox
+pyrazosulfuron-ethyl,947,pyrazosulfuron-ethyl
+isotope ratio of 78Se/76Se,948,isotope ratio of 78Se/76Se
+isotope ratio of 80Se/76Se,949,isotope ratio of 80Se/76Se
+isotope ratio of 82Se/76Se,950,isotope ratio of 82Se/76Se
+isotope ratio of 74Se/76Se,951,isotope ratio of 74Se/76Se
+isotope ratio of 77Se/76Se,952,isotope ratio of 77Se/76Se
+ketamine hydrochloride,953,ketamine hydrochloride
+pethidine hydrochloride,954,pethidine hydrochloride
+cocaine hydrochloride,955,cocaine hydrochloride
+methadone hydrochloride,956,methadone hydrochloride
+diazepam,957,diazepam
+estazolam,958,estazolam
+heroin hydrochloride,959,heroin hydrochloride
+3-Amino-5-morpholinomethyl-2-oxazolidinone (AMOZ),960,3-Amino-5-morpholinomethyl-2-oxazolidinone (AMOZ)
+3-Amino-2-oxazolidinone (AOZ),961,3-Amino-2-oxazolidinone (AOZ)
+oxidant expressed as potassium dichromate,962,oxidant expressed as potassium dichromate
+nicotinamide,963,nicotinamide
+pyridoxine hydrochloride,964,pyridoxine hydrochloride
+niacin,965,niacin
+vitamin D2,966,vitamin D2
+vitamin D3,967,vitamin D3
+melatonin,968,melatonin
+adrenaline,969,adrenaline
+sudan1,970,sudan1
+R(-)-methamphetamine hydrochloride,971,R(-)-methamphetamine hydrochloride
+codeine phosphate,972,codeine phosphate
+triazolam,973,triazolam
+morphine hydrochloride,974,morphine hydrochloride
+i-butyl hydroxybenzoate,975,i-butyl hydroxybenzoate
+theobromine,976,theobromine
+complexing agent expressed as ethylenediaminetetraacetic acid disodium salt dihydrate,977,complexing agent expressed as ethylenediaminetetraacetic acid disodium salt dihydrate
+reductant expressed as sodium oxalate,978,reductant expressed as sodium oxalate
+complexometric calibrant which chelate complex with EDTA expressed as zinc oxide,979,complexometric calibrant which chelate complex with EDTA expressed as zinc oxide
+furazolidone,980,furazolidone
+furadantin,981,furadantin
+dinitolmide,982,dinitolmide
+trimethoprim,983,trimethoprim
+isotope ratio of 168Yb/172Yb,984,isotope ratio of 168Yb/172Yb
+isotope ratio of 170Yb/172Yb,985,isotope ratio of 170Yb/172Yb
+isotope ratio of 171Yb/172Yb,986,isotope ratio of 171Yb/172Yb
+isotope ratio of 173Yb/172Yb,987,isotope ratio of 173Yb/172Yb
+isotope ratio of 174Yb/172Yb,988,isotope ratio of 174Yb/172Yb
+isotope ratio of 176Yb/172Yb,989,isotope ratio of 176Yb/172Yb
+1-aminohydantoin hydrochloride (AHD),990,1-aminohydantoin hydrochloride (AHD)
+clenbuterol hydrochloride,991,clenbuterol hydrochloride
+17alpha- hydroxyprogesterone,992,17alpha- hydroxyprogesterone
+semicarbazide hydrochloride (SEM),993,semicarbazide hydrochloride (SEM)
+ginsenoside Rg1,994,ginsenoside Rg1
+paclitaxel,995,paclitaxel
+emodin,996,emodin
+"2,3,5-trimethylpyrazine",997,"2,3,5-trimethylpyrazine"
+dicyanodiamide,998,dicyanodiamide
+estradiol,999,estradiol
+carbofuran,1000,carbofuran
+ginsenoside Rb1,1001,ginsenoside Rb1
+L-valine,1002,L-valine
+L-leucine,1003,L-leucine
+L-isoleucine,1004,L-isoleucine
+L-phenylalanine,1005,L-phenylalanine
+saccharin,1006,saccharin
+acid expressed as hydrogen chloride,1007,acid expressed as hydrogen chloride
+sulfate ion,1008,sulfate ion
+cyanide ion,1009,cyanide ion
+bromate,1010,bromate
+phthalate expressed as mass fraction of carbon,1011,phthalate expressed as mass fraction of carbon
+206Pb/204Pb,1012,206Pb/204Pb
+207Pb/204Pb,1013,207Pb/204Pb
+208Pb/204Pb,1014,208Pb/204Pb
+208Pb/206Pb,1015,208Pb/206Pb
+207Pb/206Pb,1016,207Pb/206Pb
+isobutene,1017,isobutene
+n-butene,1018,n-butene
+"1,2-butadiene",1019,"1,2-butadiene"
+deuterium,1020,deuterium
+propylene,1021,propylene
+total hydrocarbon,1022,total hydrocarbon
+bromotrifluoromethane,1023,bromotrifluoromethane
+chloroethylene,1024,chloroethylene
+"1,2-dichloroethene",1025,"1,2-dichloroethene"
+carbon tetrachloride,1026,carbon tetrachloride
+trichlorofluoromethane (CFC-11),1027,trichlorofluoromethane (CFC-11)
+chlorodifluoroethane (HCFC-22),1028,chlorodifluoroethane (HCFC-22)
+nitric oxide,1029,nitric oxide
+trimethylamine,1030,trimethylamine
+a-pinene,1031,a-pinene
+3-carene,1032,3-carene
+R-limonene,1033,R-limonene
+"1,8-cineole",1034,"1,8-cineole"
+but-1-ene,1035,but-1-ene
+hexavalent chromium,1036,hexavalent chromium
+cholesterol (total),1037,cholesterol (total)
+testosterone glucuronide (expressed as equivalents of the free steroid) in the reconstituted material,1038,testosterone glucuronide (expressed as equivalents of the free steroid) in the reconstituted material
+epitestosterone glucuronide (expressed as equivalents of the free steroid) in the reconstituted material,1039,epitestosterone glucuronide (expressed as equivalents of the free steroid) in the reconstituted material
+androsterone glucuronide (expressed as equivalents of the free steroid) in the reconstituted material,1040,androsterone glucuronide (expressed as equivalents of the free steroid) in the reconstituted material
+etiocholanolone glucuronide (expressed as equivalents of the free steroid) in the reconstituted material,1041,etiocholanolone glucuronide (expressed as equivalents of the free steroid) in the reconstituted material
+"sum of 5alpha-androstane-3alpha,17beta-diol glucuronides (expressed as equivalents of the free steroid) in the reconstituted material",1042,"sum of 5alpha-androstane-3alpha,17beta-diol glucuronides (expressed as equivalents of the free steroid) in the reconstituted material"
+"sum of 5beta-androstane-3alpha,17beta-diol glucuronides (expressed as equivalents of the free steroid) in the reconstituted material",1043,"sum of 5beta-androstane-3alpha,17beta-diol glucuronides (expressed as equivalents of the free steroid) in the reconstituted material"
+CIR of Steroids and steroid metabolites (5 - 5000 ng/g).,1044,CIR of Steroids and steroid metabolites (5 - 5000 ng/g).
+isotope ratio of 234U/238U,1045,isotope ratio of 234U/238U
+isotope ratio of 235U/238U,1046,isotope ratio of 235U/238U
+isotope ratio of   236U/238U,1047,isotope ratio of   236U/238U
+linearised DNA,1048,linearised DNA
+testosterone glucuronide (expressed as equivalents of the free steroid),1049,testosterone glucuronide (expressed as equivalents of the free steroid)
+chloride standard,1050,chloride standard
+arsenic (total),1051,arsenic (total)
+beta-chlordane,1052,beta-chlordane
+copy number ratio of specified intact sequence fragments of 70 to 120 nucleotides length in a single genomic DNA extract,1053,copy number ratio of specified intact sequence fragments of 70 to 120 nucleotides length in a single genomic DNA extract
+kresoxim-methyl,1054,kresoxim-methyl
+fenpropathrin,1055,fenpropathrin
+cypermethrin,1056,cypermethrin
+cyfluthrin,1057,cyfluthrin
+fenvalerate,1058,fenvalerate
+tau-fluvalinate,1059,tau-fluvalinate
+total  inorganic arsenic,1060,total  inorganic arsenic
+dicofol,1061,dicofol
+endosulfan I,1062,endosulfan I
+endosulfan II,1063,endosulfan II
+acesulfame,1064,acesulfame
+specified intact sequence fragments of a length up to 150 nucleotides length in a single genomic DNA extract,1065,specified intact sequence fragments of a length up to 150 nucleotides length in a single genomic DNA extract
+D-glucosamine,1066,D-glucosamine
+methyl4-hydroxybenzoate,1067,methyl4-hydroxybenzoate
+ethyl 4-hydroxybenzonate,1068,ethyl 4-hydroxybenzonate
+propyl 4-hydroxybenzonate,1069,propyl 4-hydroxybenzonate
+ibuprofen,1070,ibuprofen
+acetaminophen,1071,acetaminophen
+retinol,1072,retinol
+nicotinic acid,1073,nicotinic acid
+patulin,1074,patulin
+thiamin,1075,thiamin
+pantothenic acid,1076,pantothenic acid
+pyridoxine,1077,pyridoxine
+alpha-ocopherol,1078,alpha-ocopherol
+cholecalciferol,1079,cholecalciferol
+cis-phylloquinone,1080,cis-phylloquinone
+trans-phylloquinone,1081,trans-phylloquinone
+stearic acid,1082,stearic acid
+oleic acid,1083,oleic acid
+biotin,1084,biotin
+linoleic acid,1085,linoleic acid
+alpha-linolenic acid,1086,alpha-linolenic acid
+gamma-linolenic acid,1087,gamma-linolenic acid
+arachidonic acid,1088,arachidonic acid
+eicosapentaenoic acid,1089,eicosapentaenoic acid
+docosahexanoic cid,1090,docosahexanoic cid
+inorganic Arsenic [As(III) + As(V)],1091,inorganic Arsenic [As(III) + As(V)]
+dimethylarsenic acid,1092,dimethylarsenic acid
+methylparabenxybenzoate,1093,methylparabenxybenzoate
+malachite green,1094,malachite green
+total malachite green,1095,total malachite green
+total inorganic As (sum of As(III) and As(V)),1096,total inorganic As (sum of As(III) and As(V))
+butyl4-hydroxybenzoate,1097,butyl4-hydroxybenzoate
+CIR of 19-norandrosterone in 19-norandrosterone glucuronide solution (~200 ng/mL expressed as the free steroid),1098,CIR of 19-norandrosterone in 19-norandrosterone glucuronide solution (~200 ng/mL expressed as the free steroid)
+saccharin sodium,1099,saccharin sodium
+meta-xylene,1100,meta-xylene
+para-xylene,1101,para-xylene
+butylacetate,1102,butylacetate
+PBDE-209,1103,PBDE-209
+PBDE-47,1104,PBDE-47
+PBDE-100,1105,PBDE-100
+PBDE-99,1106,PBDE-99
+PBDE-85,1107,PBDE-85
+PBDE-153,1108,PBDE-153
+PBDE-154,1109,PBDE-154
+PBDE-183,1110,PBDE-183
+PBDE-197,1111,PBDE-197
+PBDE-203,1112,PBDE-203
+PBDE-196,1113,PBDE-196
+heptachlor-epoxide,1114,heptachlor-epoxide
+"p,p’-DDD",1115,"p,p’-DDD"
+"o,p’-DDT",1116,"o,p’-DDT"
+isobutyl alcohol,1117,isobutyl alcohol
+"purified peptides of known sequence up to a length of 20 amino acids. The peptide must contain minimum three AA out of the set: {L,I,V,P,F}",1118,"purified peptides of known sequence up to a length of 20 amino acids. The peptide must contain minimum three AA out of the set: {L,I,V,P,F}"
+beta-phenyl ethanol,1119,beta-phenyl ethanol
+ethyl propionate,1120,ethyl propionate
+ethyl hexanoate,1121,ethyl hexanoate
+hexabromobenzene,1122,hexabromobenzene
+"phthalic acid,bis-butyl ester (DBP)",1123,"phthalic acid,bis-butyl ester (DBP)"
+d-glucose,1124,d-glucose
+total malachite green (sum of malachite green and leucomalachite green),1125,total malachite green (sum of malachite green and leucomalachite green)
+MON810,1126,MON810
+specified  intact  sequence segments of a length in the range of 60 to 150 nucleotides in a single genomic DNA extract,1127,specified  intact  sequence segments of a length in the range of 60 to 150 nucleotides in a single genomic DNA extract
+total inorganic arsenic (As(III) + As(V)),1128,total inorganic arsenic (As(III) + As(V))
+aluminium,1129,aluminium
+"fenitrothion (O, O-dimethyl-O-4-nitro-m-tolyl phosphorothioate)",1130,"fenitrothion (O, O-dimethyl-O-4-nitro-m-tolyl phosphorothioate)"
+etofenprox (2-(4-ethoxyphenyl)-2-methylpropyl 3-phenoxybenzyl ether),1131,etofenprox (2-(4-ethoxyphenyl)-2-methylpropyl 3-phenoxybenzyl ether)
+arsenate expressed as arsenic,1132,arsenate expressed as arsenic
+PCB28,1133,PCB28
+PCB70,1134,PCB70
+PCB105,1135,PCB105
+PCB153,1136,PCB153
+PCB170,1137,PCB170
+"diazinon (O,O-diethyl O-2-isopropyl-6-methylpyrimidin-4-yl phosphorothioate)
+",1138,"diazinon (O,O-diethyl O-2-isopropyl-6-methylpyrimidin-4-yl phosphorothioate)
+"
+"fenitrothion (O,O-dimethyl-O-4-nitro-m-tolyl phosphorothioate)",1139,"fenitrothion (O,O-dimethyl-O-4-nitro-m-tolyl phosphorothioate)"
+"chlorpyrifos (O,O-diethyl O-3, 5, 6-trichloro-2-pyridyl phosphorothioate)",1140,"chlorpyrifos (O,O-diethyl O-3, 5, 6-trichloro-2-pyridyl phosphorothioate)"
+arsenite expressed as arsenic,1141,arsenite expressed as arsenic
+dimethylarsenic acid expressed as arsenic,1142,dimethylarsenic acid expressed as arsenic
+arsenobetaine as arsenic,1143,arsenobetaine as arsenic
+methylmercury as mercury,1144,methylmercury as mercury
+PCB 3,1145,PCB 3
+PCB 15,1146,PCB 15
+g-HCH,1147,g-HCH
+tri n-butyltin as tin,1148,tri n-butyltin as tin
+di n-butyltin as tin,1149,di n-butyltin as tin
+mono n-butyltin as tin,1150,mono n-butyltin as tin
+triphenyltin as tin,1151,triphenyltin as tin
+diphenyltin as tin,1152,diphenyltin as tin
+benzo[c]phenanthrene,1153,benzo[c]phenanthrene
+benz[a]anthracene,1154,benz[a]anthracene
+benzo[j]fluoranthene,1155,benzo[j]fluoranthene
+benzo[ghi]perylene,1156,benzo[ghi]perylene
+nitric dioxide,1157,nitric dioxide
+"cis-1,2-dichloroethylene",1158,"cis-1,2-dichloroethylene"
+dinitrogen oxide,1159,dinitrogen oxide
+methylchloride,1160,methylchloride
+ethyl chloride,1161,ethyl chloride
+4-vinyl-1-cyclohexene (4-ethenylcyclohexene),1162,4-vinyl-1-cyclohexene (4-ethenylcyclohexene)
+butane,1163,butane
+iso-butane,1164,iso-butane
+n-Butyl paraben,1165,n-Butyl paraben
+ppro,2048,ppro
+gros,2049,gros
+"non-polar analytes with molecular mass range 300-500 g/mol, and polarity pKow<-2",2050,"non-polar analytes with molecular mass range 300-500 g/mol, and polarity pKow<-2"
+"Polar analytes with molecular mass range 300-500 g/mol, and polarity pKow>-2",2051,"Polar analytes with molecular mass range 300-500 g/mol, and polarity pKow>-2"
+low polarity mycotoxins (pKow<-2),2052,low polarity mycotoxins (pKow<-2)
+low polarity mycotoxins (pKow>-2),2053,low polarity mycotoxins (pKow>-2)
+high polarity mycotoxins (pKow>-2),2054,high polarity mycotoxins (pKow>-2)
+"organic compounds (e.g. mycotoxins, pesticides) in molecular mass range 100-500, and polarity >-2",2055,"organic compounds (e.g. mycotoxins, pesticides) in molecular mass range 100-500, and polarity >-2"
+"Organic compounds (e.g. PAHs, mycotoxins, pesticides) in molecular mass range 100-500, and polarity <-2",2056,"Organic compounds (e.g. PAHs, mycotoxins, pesticides) in molecular mass range 100-500, and polarity <-2"
+Drug/pesticide residues in water with molecular mass range 100-500 g/mol and low polarity <= -2,2057,Drug/pesticide residues in water with molecular mass range 100-500 g/mol and low polarity <= -2
+L-proline,2058,L-proline
+high polarity organic compounds with Mwt below 500,2059,high polarity organic compounds with Mwt below 500
+proteinogenic amino acids (molar mass of analytes < 500 g/mol),2060,proteinogenic amino acids (molar mass of analytes < 500 g/mol)
+,2061,
+chlorates,2062,chlorates
+methyl hydroxybenzoate,2063,methyl hydroxybenzoate
+"GaAs film, AlAs film",2064,"GaAs film, AlAs film"
+di-2-ethylhexyl phthalate,2065,di-2-ethylhexyl phthalate
+"trans-1,2-dichloroethylene",2066,"trans-1,2-dichloroethylene"
+dibromochloro methane,2067,dibromochloro methane
+hydrocortison,2068,hydrocortison
+methyl paraben (methyl 4-hydroxybenzoate),2069,methyl paraben (methyl 4-hydroxybenzoate)
+n-propyl paraben (n-propyl 4-hydroxybenzoate),2070,n-propyl paraben (n-propyl 4-hydroxybenzoate)
+2’-deoxyadenosine 5’-monophosphate,2071,2’-deoxyadenosine 5’-monophosphate
+phodiquat,2072,phodiquat
+carbon isotopes,2073,carbon isotopes
+fluroxypyr-meptyl,2074,fluroxypyr-meptyl
+bifenthrine,2075,bifenthrine
+delta-HCH (hexachlorocyclohexane),2076,delta-HCH (hexachlorocyclohexane)
+total acid content expressed as potassium hydrogen phthalate,2077,total acid content expressed as potassium hydrogen phthalate
+total acid content expressed as amido-sulfuric (sulfamic) acid,2078,total acid content expressed as amido-sulfuric (sulfamic) acid
+enrofloxacin,2079,enrofloxacin
+cirofloxacin,2080,cirofloxacin
+norfloxacin,2081,norfloxacin
+oflofloxacin,2082,oflofloxacin
+perfloxacin,2083,perfloxacin
+lomefloxacin,2084,lomefloxacin
+sparfloxacin,2085,sparfloxacin
+levofloxacin,2086,levofloxacin
+moxifloxacin,2087,moxifloxacin
+gemifloxacin,2088,gemifloxacin
+gatifloxacin,2089,gatifloxacin
+sitafloxacin,2090,sitafloxacin
+trovafloxacin,2091,trovafloxacin
+delafloxacin,2092,delafloxacin
+clinafloxacin,2093,clinafloxacin
+sulfadiazine,2094,sulfadiazine
+"chemically synthesized linear peptides of known sequence, without cross‐links, up to 5 kDa",2095,"chemically synthesized linear peptides of known sequence, without cross‐links, up to 5 kDa"
+total halides expressed as sodium chloride,2096,total halides expressed as sodium chloride
+"HfO2, SiO2, Si3N4, SiC et al film",2097,"HfO2, SiO2, Si3N4, SiC et al film"
+Gold film,2098,Gold film
+graphene oxide,2099,graphene oxide
+gamma-HBCD,2100,gamma-HBCD
+dimethyl phthalate,2101,dimethyl phthalate
+dibutyl phthalate,2102,dibutyl phthalate
+di(2-ethylhexyl) phthalate,2103,di(2-ethylhexyl) phthalate
+di-n-octyl phthalate,2104,di-n-octyl phthalate
+5-methyltetrahydrofolic acid,2105,5-methyltetrahydrofolic acid
+high polarity (pKow >2) small organic clinical markers with molar mass range 50-500 g/mol in human serum,2106,high polarity (pKow >2) small organic clinical markers with molar mass range 50-500 g/mol in human serum
+tributyltin,2107,tributyltin
+aflatoxin B1,2108,aflatoxin B1
+aflatoxin B2,2109,aflatoxin B2
+aflatoxin G1,2110,aflatoxin G1
+aflatoxin G2,2111,aflatoxin G2
+total aflatoxin,2112,total aflatoxin
+sucralose,2113,sucralose
+"Ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from a high fat/oil matrix, with a copy number ratio from 0.001 to 1",2114,"Ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from a high fat/oil matrix, with a copy number ratio from 0.001 to 1"
+PBDE 47,2115,PBDE 47
+PBDE 99,2116,PBDE 99
+PBDE 153,2117,PBDE 153
+methcathinone hydrochloride,2118,methcathinone hydrochloride
+tetrahydrocannabinol,2119,tetrahydrocannabinol
+"3,4-methylenedioxymethamphetamine",2120,"3,4-methylenedioxymethamphetamine"
+nimetazepam,2121,nimetazepam
+estriol,2122,estriol
+4-hydroxy-3-methoxymandelic acid,2123,4-hydroxy-3-methoxymandelic acid
+L-threonine,2124,L-threonine
+L-methionine,2125,L-methionine
+L-tryptophan,2126,L-tryptophan
+L-lysine monohydrochloride,2127,L-lysine monohydrochloride
+L-arginine,2128,L-arginine
+"n(xxxHg)/n(202Hg) in MeHg for xxx = 198, 199, 200, 201, 204",2129,"n(xxxHg)/n(202Hg) in MeHg for xxx = 198, 199, 200, 201, 204"
+"n(xxCr)/n(53Cr) for xx = 50, 52, 54",2130,"n(xxCr)/n(53Cr) for xx = 50, 52, 54"
+"n(xxZn)/n(64Zn) for xx = 66, 67, 68, 70",2131,"n(xxZn)/n(64Zn) for xx = 66, 67, 68, 70"
+"n(xxZn)/n(67Zn) for xx = 64, 66, 68, 70",2132,"n(xxZn)/n(67Zn) for xx = 64, 66, 68, 70"
+"n(xxZn)/n(68Zn) for xx = 64, 66, 67, 70",2133,"n(xxZn)/n(68Zn) for xx = 64, 66, 67, 70"
+"n(xxxCd)/n(111Cd) for xxx = 110, 112, 113, 114, 116",2134,"n(xxxCd)/n(111Cd) for xxx = 110, 112, 113, 114, 116"
+"purified peptides or proteins of known sequence containing minimum three of the following amino acids L-Isoleucine, L-Proline, L-Phenylalanine, L-Valine",2135,"purified peptides or proteins of known sequence containing minimum three of the following amino acids L-Isoleucine, L-Proline, L-Phenylalanine, L-Valine"
+n(56Fe)/n(57Fe),2136,n(56Fe)/n(57Fe)
+Hg,2137,Hg
+MeHg,2138,MeHg
+"BDE 47, 99, 153, 154",2139,"BDE 47, 99, 153, 154"
+tributyltin (TBT),2140,tributyltin (TBT)
+dibutyltin (DBT),2141,dibutyltin (DBT)
+"PCB 28 2,4,4'-trichlorobiphenyl",2142,"PCB 28 2,4,4'-trichlorobiphenyl"
+"PCB 101 2,2',4,5,5'-pentachlorobiphenyl",2143,"PCB 101 2,2',4,5,5'-pentachlorobiphenyl"
+"PCB 153 2,2',4,4',5,5'-hexachlorobiphenyl",2144,"PCB 153 2,2',4,4',5,5'-hexachlorobiphenyl"
+"PCB 170 2,2',3,3',4,4',5-heptachlorobiphenyl",2145,"PCB 170 2,2',3,3',4,4',5-heptachlorobiphenyl"
+235U/238U,2146,235U/238U
+234U/238U or 236U/238U,2147,234U/238U or 236U/238U
+U isotope,2148,U isotope
+Fe isotope,2149,Fe isotope
+S isotope,2150,S isotope
+Xe isotope,2151,Xe isotope
+Kr isotope,2152,Kr isotope
+Li isotope amount ratios,2153,Li isotope amount ratios
+Li isotope amount content,2154,Li isotope amount content
+B isotope amount ratios,2155,B isotope amount ratios
+B isotope amount content,2156,B isotope amount content
+N isotope amount ratio,2157,N isotope amount ratio
+N isotope amount content,2158,N isotope amount content
+Mg isotope amount ratios,2159,Mg isotope amount ratios
+Mg isotope amount content,2160,Mg isotope amount content
+Si isotope amount ratios,2161,Si isotope amount ratios
+Cl isotope amount ratios,2162,Cl isotope amount ratios
+Cl isotope amount content,2163,Cl isotope amount content
+Cr isotope amount ratio,2164,Cr isotope amount ratio
+Cr isotope amount content,2165,Cr isotope amount content
+Zn isotope amount ratio,2166,Zn isotope amount ratio
+Zn isotope amount content,2167,Zn isotope amount content
+Cu isotope amount ratio,2168,Cu isotope amount ratio
+Cu isotope amount content,2169,Cu isotope amount content
+Rb isotope amount ratio,2170,Rb isotope amount ratio
+Rb isotope amount content,2171,Rb isotope amount content
+Cd isotope amount ratio,2172,Cd isotope amount ratio
+Cd isotope amount content,2173,Cd isotope amount content
+Organic compounds with molecular weight between 70 – 500 g/mol,2174,Organic compounds with molecular weight between 70 – 500 g/mol
+Organic compounds with molecular weight between 501 – 900 g/mol,2175,Organic compounds with molecular weight between 501 – 900 g/mol
+Polycyclic Aromatic Hydrocarbons (PAH),2176,Polycyclic Aromatic Hydrocarbons (PAH)
+Polychlorinated Biphenyls (PCB),2177,Polychlorinated Biphenyls (PCB)
+"Chlorinated Pesticides (molar mass < 500 g/mol, polarity pKow < -2)",2178,"Chlorinated Pesticides (molar mass < 500 g/mol, polarity pKow < -2)"
+low polarity organic compounds with Mwt below 500,2179,low polarity organic compounds with Mwt below 500
+sodium fluoride,2180,sodium fluoride
+carbon isotope delta (δ13C),2181,carbon isotope delta (δ13C)
+"5α-androstane-3α,17β-diol",2182,"5α-androstane-3α,17β-diol"
+"5β-androstane-3α,17β-diol",2183,"5β-androstane-3α,17β-diol"
+isotope ratio of 92Mo/95Mo,2184,isotope ratio of 92Mo/95Mo
+isotope ratio of 94Mo/95Mo,2185,isotope ratio of 94Mo/95Mo
+isotope ratio of 96Mo/95Mo,2186,isotope ratio of 96Mo/95Mo
+isotope ratio of 97Mo/95Mo,2187,isotope ratio of 97Mo/95Mo
+isotope ratio of 98Mo/95Mo,2188,isotope ratio of 98Mo/95Mo
+isotope ratio of 100Mo/95Mo,2189,isotope ratio of 100Mo/95Mo
+isotope ratio of 92Mo/97Mo,2190,isotope ratio of 92Mo/97Mo
+isotope ratio of 94Mo/97Mo,2191,isotope ratio of 94Mo/97Mo
+isotope ratio of 95Mo/97Mo,2192,isotope ratio of 95Mo/97Mo
+isotope ratio of 96Mo/97Mo,2193,isotope ratio of 96Mo/97Mo
+isotope ratio of 98Mo/97Mo,2194,isotope ratio of 98Mo/97Mo
+isotope ratio of 100Mo/97Mo,2195,isotope ratio of 100Mo/97Mo
+isotope ratio of 92Mo/100Mo,2196,isotope ratio of 92Mo/100Mo
+isotope ratio of 94Mo/100Mo,2197,isotope ratio of 94Mo/100Mo
+isotope ratio of 95Mo/100Mo,2198,isotope ratio of 95Mo/100Mo
+isotope ratio of 96Mo/100Mo,2199,isotope ratio of 96Mo/100Mo
+isotope ratio of 97Mo/100Mo,2200,isotope ratio of 97Mo/100Mo
+isotope ratio of 98Mo/100Mo,2201,isotope ratio of 98Mo/100Mo
+total acid expressed as benzoic acid,2202,total acid expressed as benzoic acid
+total base expressed as tris (hydroxymethyl) aminomethane,2203,total base expressed as tris (hydroxymethyl) aminomethane
+fipronil desulfinyl,2204,fipronil desulfinyl
+fipronil-sulfone,2205,fipronil-sulfone
+fipronil sulfide,2206,fipronil sulfide
+zearalenone(E),2207,zearalenone(E)
+"high purity 2,3,5,6-tetramethylpyrazine",2208,"high purity 2,3,5,6-tetramethylpyrazine"
+butyl acetate,2209,butyl acetate
+PBB-209,2210,PBB-209
+erythrosine,2211,erythrosine
+allure red,2212,allure red
+α-zearalanol,2213,α-zearalanol
+"Polycyclic aromatic hydrocarbons with molecular mass of 100 g/mol to 500 g/mol, having low polarity pKow < -2, in mass fraction range from 0.1 to 1000 µg/kg in oil",2214,"Polycyclic aromatic hydrocarbons with molecular mass of 100 g/mol to 500 g/mol, having low polarity pKow < -2, in mass fraction range from 0.1 to 1000 µg/kg in oil"
+low polarity pesticides (pKOW < -2) with a molar mass range 100 to 500 g/mol,2215,low polarity pesticides (pKOW < -2) with a molar mass range 100 to 500 g/mol
+maganese,2216,maganese
+perfluorooctanesulfonate expressed as potassium perfluorooctanesulfonate,2217,perfluorooctanesulfonate expressed as potassium perfluorooctanesulfonate
+"PCB 28 (2,4,4’-trichlorobiphenyl)",2218,"PCB 28 (2,4,4’-trichlorobiphenyl)"
+"PCB 70 (2,3’,4’,5-tetrachlorobiphenyl)",2219,"PCB 70 (2,3’,4’,5-tetrachlorobiphenyl)"
+"PCB 105 (2,3,3’,4,4’-pentachlorobiphenyl)",2220,"PCB 105 (2,3,3’,4,4’-pentachlorobiphenyl)"
+"PCB 153 (2,2’,4,4’,5,5’-hexachlorobiphenyl)",2221,"PCB 153 (2,2’,4,4’,5,5’-hexachlorobiphenyl)"
+"PCB 170 (2,2’,3,3’,4,4’,5-heptachlorobiphenyl)",2222,"PCB 170 (2,2’,3,3’,4,4’,5-heptachlorobiphenyl)"
+"PCB 194 (2,2’,3,3’,4,4’,5,5’-octachlorobiphenyl)",2223,"PCB 194 (2,2’,3,3’,4,4’,5,5’-octachlorobiphenyl)"
+okadaic Acid,2224,okadaic Acid
+dinophysistoxin-1 (DTX1),2225,dinophysistoxin-1 (DTX1)
+"PAHs (Polycyclic aromatic hydrocarbons, pKow<-2 and M.W.<500)",2226,"PAHs (Polycyclic aromatic hydrocarbons, pKow<-2 and M.W.<500)"
+"PCBs (Polychlorinated biphenyls, pKow<-2 and M.W.<550)",2227,"PCBs (Polychlorinated biphenyls, pKow<-2 and M.W.<550)"
+"Chlorinated pesticides (including DDE, DDT, HCH, endosulfanes, etc, pKow<-2 and M.W.<500)",2228,"Chlorinated pesticides (including DDE, DDT, HCH, endosulfanes, etc, pKow<-2 and M.W.<500)"
+"Organophosphorous pesticides (including diazinon, chlorpyrifos, etc, pKow<-2 and M.W.<500)",2229,"Organophosphorous pesticides (including diazinon, chlorpyrifos, etc, pKow<-2 and M.W.<500)"
+Phthalate esters ( pKow<-2 and M.W.<500),2230,Phthalate esters ( pKow<-2 and M.W.<500)
+"Hexabromocyclododecanes (HBCDs, pKow<-2 and M.W.<500)",2231,"Hexabromocyclododecanes (HBCDs, pKow<-2 and M.W.<500)"
+"Polybrominated diphenyl ethers (PBDEs, pKow<-2 and M.W.<500)",2232,"Polybrominated diphenyl ethers (PBDEs, pKow<-2 and M.W.<500)"
+"Alkylbenzenes (such as benzene, toluene, ethylbenzene,xylenes, pKow<-2 and M.W.<500)",2233,"Alkylbenzenes (such as benzene, toluene, ethylbenzene,xylenes, pKow<-2 and M.W.<500)"
+tri- and tetra-halogenated methanes (halogens are limited to chlorine and bromine),2234,tri- and tetra-halogenated methanes (halogens are limited to chlorine and bromine)
+nitogen monoxide,2235,nitogen monoxide
+benz(a)anthracene,2236,benz(a)anthracene
+benzo(b)fluoranthene,2237,benzo(b)fluoranthene
+benzo(a)pyrene,2238,benzo(a)pyrene
+ciprofloxacin,2239,ciprofloxacin
+organic compounds with molecular weight < 500 g/mol and low polarity (pKow < -2),2240,organic compounds with molecular weight < 500 g/mol and low polarity (pKow < -2)
+organic compounds with molecular weight < 500 g/mol and high polarity (pKow > -2),2241,organic compounds with molecular weight < 500 g/mol and high polarity (pKow > -2)
+"low polarity, MW < 500 g/mol high purity chemical with demonstrated analyte-specific, non-exchangeable protons and with no interfering resonances from impurity components",2242,"low polarity, MW < 500 g/mol high purity chemical with demonstrated analyte-specific, non-exchangeable protons and with no interfering resonances from impurity components"
+"high polarity, MW < 500 g/mol, high purity chemical with demonstrated analyte-specific, non-exchangeable protons and with no interfering resonances from impurity components",2243,"high polarity, MW < 500 g/mol, high purity chemical with demonstrated analyte-specific, non-exchangeable protons and with no interfering resonances from impurity components"
+isobuthanol,2244,isobuthanol
+Fructuose,2245,Fructuose
+Benzo(a)anthracene,2246,Benzo(a)anthracene
+Benzo (b) fluoranthene,2247,Benzo (b) fluoranthene
+Benzo (k) fluoranthene,2248,Benzo (k) fluoranthene
+"Dibenz (a,h) anthracene",2249,"Dibenz (a,h) anthracene"
+"Indeno (1,2,3-c,d) pyrene",2250,"Indeno (1,2,3-c,d) pyrene"
+benzo(ghi)perylene,2251,benzo(ghi)perylene
+hexachlorobezene,2252,hexachlorobezene
+low polarity organic compounds with MW < 500 g/mol,2253,low polarity organic compounds with MW < 500 g/mol
+high polarity organic compounds with MW < 500 g/mol,2254,high polarity organic compounds with MW < 500 g/mol
+butene-1,2255,butene-1
+iso-pentane,2256,iso-pentane
+"Polycyclic Aromatic Hydrocarbons - PAH (molar mass > 150 g/mol, polarity pKow < -2)",2257,"Polycyclic Aromatic Hydrocarbons - PAH (molar mass > 150 g/mol, polarity pKow < -2)"
+Mass fraction purity of organic compounds of low polarity (pKOW < -2) with molar mass below 500 g/mol,2258,Mass fraction purity of organic compounds of low polarity (pKOW < -2) with molar mass below 500 g/mol
+Mass fraction purity of organic compounds of high polarity (pKOW > -2) with molar mass below 500 g/mol,2259,Mass fraction purity of organic compounds of high polarity (pKOW > -2) with molar mass below 500 g/mol
+Dimethyl terephthalate,2260,Dimethyl terephthalate
+Potassium hydrogen phthalate,2261,Potassium hydrogen phthalate
+"indeno(1,2,3-cd)pyreno",2262,"indeno(1,2,3-cd)pyreno"
+PAHs in toluene of molar mass > 150 g/mol and less than 280 g/mol,2263,PAHs in toluene of molar mass > 150 g/mol and less than 280 g/mol
+"proteinogenic amino acids (molar mass of analytes < 500 g/mol, pKow> -2)",2264,"proteinogenic amino acids (molar mass of analytes < 500 g/mol, pKow> -2)"
+polycyclic aromatic hydrocarbons (molar mass 100 mg/mol - 500 mg/mol; pKow < -2),2265,polycyclic aromatic hydrocarbons (molar mass 100 mg/mol - 500 mg/mol; pKow < -2)
+3-epi-25-hydroxyvitmain D3,2266,3-epi-25-hydroxyvitmain D3
+"24,25-hydroxyvitmain D3",2267,"24,25-hydroxyvitmain D3"
+2-methyl-1-butanol,2268,2-methyl-1-butanol
+3-methyl-1-butanol,2269,3-methyl-1-butanol
+Benzo(k)fluoranthene,2270,Benzo(k)fluoranthene
+"Indeno(1,2,3)-pyrene",2271,"Indeno(1,2,3)-pyrene"
+"dibenz(a,h)anthracene",2272,"dibenz(a,h)anthracene"
+2-buthanol,2273,2-buthanol
+Naphtalene,2274,Naphtalene
+oxidants expressed as potassium iodate,2275,oxidants expressed as potassium iodate
+chemically synthesized linear peptides (not crosslinked) of known sequence up to 5 kDa containing peptide impurities of less than 15 %,2276,chemically synthesized linear peptides (not crosslinked) of known sequence up to 5 kDa containing peptide impurities of less than 15 %
+bases expressed as tris,2277,bases expressed as tris
+benz[a]anthracene (BaA),2278,benz[a]anthracene (BaA)
+benzo[a]pyrene (BaP),2279,benzo[a]pyrene (BaP)
+naphthalene (Nap),2280,naphthalene (Nap)
+(L)-Phenylalanine,2281,(L)-Phenylalanine
+(L)-Leucine,2282,(L)-Leucine
+(L)-Isoleucine,2283,(L)-Isoleucine
+(L)-Proline,2284,(L)-Proline
+Peptides in an aqueous calibration solution of purity evaluated recombinant proteins/synthetic peptides up to 10 kDa containing up to 3 disulfide cross links using amino acid based ID LC MS.,2285,Peptides in an aqueous calibration solution of purity evaluated recombinant proteins/synthetic peptides up to 10 kDa containing up to 3 disulfide cross links using amino acid based ID LC MS.
+high polarity organic analytes pKow> -2 and <500 g/mol,2286,high polarity organic analytes pKow> -2 and <500 g/mol
+"peptide of known sequence containing up to 30 amino acids which must contain at least three of the following AA ( A,G,V,L,I,P,F,K,R)",2287,"peptide of known sequence containing up to 30 amino acids which must contain at least three of the following AA ( A,G,V,L,I,P,F,K,R)"
+Zearalenone (ZEN),2288,Zearalenone (ZEN)
+"Genomic DNA. Copies of specified intact sequence fragments of a length up to 150 nucleotides from an unprocessed, high fat/oil ground seed matrix",2289,"Genomic DNA. Copies of specified intact sequence fragments of a length up to 150 nucleotides from an unprocessed, high fat/oil ground seed matrix"
+sulphur dioxide,2290,sulphur dioxide
+Airborne monodisperse polystyrene latex spheres with diameter ranging from 0.3 µm to 2.0 µm,2291,Airborne monodisperse polystyrene latex spheres with diameter ranging from 0.3 µm to 2.0 µm
+Airborne monodisperse polystyrene latex spheres with diameter ranging from >2.0 µm to 5.0 µm,2292,Airborne monodisperse polystyrene latex spheres with diameter ranging from >2.0 µm to 5.0 µm
+beta-pinene,2293,beta-pinene
+Pb-204,2294,Pb-204
+Pb-206,2295,Pb-206
+Pb-207,2296,Pb-207
+Pb-208,2297,Pb-208
+Molar mass of Lead,2298,Molar mass of Lead
+monodisperse polystyrene latex spheres with nominal diameter ranging from 0.3 μm to 1.5 μm,2299,monodisperse polystyrene latex spheres with nominal diameter ranging from 0.3 μm to 1.5 μm
+monodisperse polystyrene latex spheres with nominal diameter ranging from >1.5 μm to 5.0 μm,2300,monodisperse polystyrene latex spheres with nominal diameter ranging from >1.5 μm to 5.0 μm
+carbon-dioxide,2301,carbon-dioxide
+carbon-monoxide,2302,carbon-monoxide
+nitrogen-monoxide,2303,nitrogen-monoxide
+acesulfame potassium,2304,acesulfame potassium
+aspartame,2305,aspartame
+4-cumylphenol,2306,4-cumylphenol
+sibutramine,2307,sibutramine
+"Methyl-2-[1-{4-fluorobutyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (4F-MDMB-BINACA)",2308,"Methyl-2-[1-{4-fluorobutyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (4F-MDMB-BINACA)"
+"Methyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (5-Fluoro-MDMB-PINACA)",2309,"Methyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (5-Fluoro-MDMB-PINACA)"
+Methyl 2-[1-(4-fluorobenzyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (MMB-FUBINACA),2310,Methyl 2-[1-(4-fluorobenzyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (MMB-FUBINACA)
+N-ethylhexedrone,2311,N-ethylhexedrone
+non-volatiles,2312,non-volatiles
+"Germanium, Arsenic, Antimony, Tellerium and Selenium",2313,"Germanium, Arsenic, Antimony, Tellerium and Selenium"
+low polarity organic compounds with Mwt 500 - 1000,2314,low polarity organic compounds with Mwt 500 - 1000
+"zearalenone(E), and mycotoxins components which mass in the range 100 g/mol to 500 g/mol and polarity (pKow) < -2.",2315,"zearalenone(E), and mycotoxins components which mass in the range 100 g/mol to 500 g/mol and polarity (pKow) < -2."
+Chemically synthesized linear peptides (not crosslinked) of known sequence up to 5kDa containing peptide impurities of less than 15 %,2316,Chemically synthesized linear peptides (not crosslinked) of known sequence up to 5kDa containing peptide impurities of less than 15 %
+"Quantification of the ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from a high fat/oil ground seed matrix, with a copy number ratio from 0.001 to 1",2317,"Quantification of the ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from a high fat/oil ground seed matrix, with a copy number ratio from 0.001 to 1"
+"Ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from a high fat/oil ground seed matrix, with a copy number ratio from 0.001 to 1",2318,"Ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from a high fat/oil ground seed matrix, with a copy number ratio from 0.001 to 1"
+"Dibenzo[a,h]anthracene",2319,"Dibenzo[a,h]anthracene"
+Di-n-octyl phthalate (DNOP),2320,Di-n-octyl phthalate (DNOP)
+PCB 103,2321,PCB 103
+PCB 204,2322,PCB 204
+Total acid content expressed as hydrochloric acid,2323,Total acid content expressed as hydrochloric acid
+"chemically synthesized peptides of known sequence, with one cross-link, up to 5 kDa",2324,"chemically synthesized peptides of known sequence, with one cross-link, up to 5 kDa"
+"Quantification of the ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from a high fat/oil ground seed matrix, with a copy number ratio from 0.001 to 1.",2325,"Quantification of the ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from a high fat/oil ground seed matrix, with a copy number ratio from 0.001 to 1."
+PCB 33,2326,PCB 33
+Di(2-ethylhexyl) Phthalate (DEHP),2327,Di(2-ethylhexyl) Phthalate (DEHP)
+"Di-n-butyl phthalate (DBP),",2328,"Di-n-butyl phthalate (DBP),"
+Benzyl butyl phthalate (BBP),2329,Benzyl butyl phthalate (BBP)
+PCB 199,2330,PCB 199
+Di-n-butyl phthalate (DBP),2331,Di-n-butyl phthalate (DBP)
+Di-iso-Butyl Phthalate,2332,Di-iso-Butyl Phthalate
+Di-iso-Butyl Phthalate (DisoBP),2333,Di-iso-Butyl Phthalate (DisoBP)
+Di-methyl Phthalate (DMP),2334,Di-methyl Phthalate (DMP)
+Di-ethyl Phthalate (DEP),2335,Di-ethyl Phthalate (DEP)
+Fluoroquinolones (200-500 g/mol),2336,Fluoroquinolones (200-500 g/mol)
+Sulfonamides (200-500 g/mol),2337,Sulfonamides (200-500 g/mol)
+PAHs (100-500 g/mol),2338,PAHs (100-500 g/mol)
+low polarity organic compounds with molar mass below 500 g/mol,2339,low polarity organic compounds with molar mass below 500 g/mol
+high polarity organic compounds with molar mass below 500 g/mol,2340,high polarity organic compounds with molar mass below 500 g/mol
+hydrogen ions,2341,hydrogen ions
+total acid expressed as boric acid,2342,total acid expressed as boric acid
+potassium chloride,2343,potassium chloride
+Benzyl Butyl Phthalate,2344,Benzyl Butyl Phthalate
+Bis (2-ethylhexyl) Phthalate,2345,Bis (2-ethylhexyl) Phthalate
+semicarbazide (SEM),2346,semicarbazide (SEM)
+high polarity organic compounds (pKow > and = -2) with Mwt between 75-500 g/mol,2347,high polarity organic compounds (pKow > and = -2) with Mwt between 75-500 g/mol
+low polarity organic compounds (pKow < -2) with Mwt between 75-500 g/mol,2348,low polarity organic compounds (pKow < -2) with Mwt between 75-500 g/mol
+low polarity organic compounds (pKow < -2) with Mwt 501 - 1000 g/mol,2349,low polarity organic compounds (pKow < -2) with Mwt 501 - 1000 g/mol
+Di(2-ethylhexyl) phthalate  (DEHP),2350,Di(2-ethylhexyl) phthalate  (DEHP)
+Di-n-butyl phthalate  (DBP),2351,Di-n-butyl phthalate  (DBP)
+Benzyl butyl phthalate  (BBP),2352,Benzyl butyl phthalate  (BBP)
+non-polar organic additives compounds with molecular mass range from 100 g/mol to 800 g/mol,2353,non-polar organic additives compounds with molecular mass range from 100 g/mol to 800 g/mol
+non-polar organic compounds (pKow<-2) with molecular mass range from 75 g/mol to 500 g/mol,2354,non-polar organic compounds (pKow<-2) with molecular mass range from 75 g/mol to 500 g/mol
+trans-zearalenone,2355,trans-zearalenone
+Di-n-octyl phthalate  (DNOP),2356,Di-n-octyl phthalate  (DNOP)
+"non-polar organic compounds with molecular mass range 300-500 g/mol, and polarity pKow<-2;",2357,"non-polar organic compounds with molecular mass range 300-500 g/mol, and polarity pKow<-2;"
+"polar organic compounds with molecular mass range 300-500 g/mol, and polarity pKow>-2",2358,"polar organic compounds with molecular mass range 300-500 g/mol, and polarity pKow>-2"
+ochratoxin-A,2359,ochratoxin-A
+deoxynivalenol,2360,deoxynivalenol
+"Aflatoxins (AFB1, AFB2, AFG1, AFG2, total aflatoxin)",2361,"Aflatoxins (AFB1, AFB2, AFG1, AFG2, total aflatoxin)"
+"Non-polar pesticides, PAHs in molecular mass range 100-500, and polarity <-2 (NON-POLAR)",2362,"Non-polar pesticides, PAHs in molecular mass range 100-500, and polarity <-2 (NON-POLAR)"
+non-polar organic additives with molecular mass range from 100 g/mol to 800 g/mol,2363,non-polar organic additives with molecular mass range from 100 g/mol to 800 g/mol
+"non-polar organic analytes (monomers, polymer additives and processing agents) with molecular mass range from 100 g/mol to 800 g/mol",2364,"non-polar organic analytes (monomers, polymer additives and processing agents) with molecular mass range from 100 g/mol to 800 g/mol"
+"polar (pKow>-2), organic compounds with mol mass < 500 g/mol",2365,"polar (pKow>-2), organic compounds with mol mass < 500 g/mol"
+"non-polar, (pKow<-2) organic compounds with mol mass < 500 g/mol",2366,"non-polar, (pKow<-2) organic compounds with mol mass < 500 g/mol"
+"high (pKow > -2) polarity residues of antibiotics, β-agonists and NSAIDs with molar mass 100-500 g/mol",2367,"high (pKow > -2) polarity residues of antibiotics, β-agonists and NSAIDs with molar mass 100-500 g/mol"
+"low (pKow < -2) polarity residues of antibiotics, β-agonists and NSAIDs with molar mass 100-500 g/mol",2368,"low (pKow < -2) polarity residues of antibiotics, β-agonists and NSAIDs with molar mass 100-500 g/mol"
+benzyl alcohol,2369,benzyl alcohol
+"3,5-di-tert-butyl-4-hydroxytoluene",2370,"3,5-di-tert-butyl-4-hydroxytoluene"
+dodecamethylcyclohexasiloxane,2371,dodecamethylcyclohexasiloxane
+n-octadecane,2372,n-octadecane
+n-eicosane,2373,n-eicosane
+1-aminohydantoin (AHD),2374,1-aminohydantoin (AHD)
+18 priority PAHs (100-500 g/mol),2375,18 priority PAHs (100-500 g/mol)
+"Sulfonamides (200-500 g/mol, pK>-2)",2376,"Sulfonamides (200-500 g/mol, pK>-2)"
+"Fluoroquinolones (200-500 g/mol, pK>-2)",2377,"Fluoroquinolones (200-500 g/mol, pK>-2)"
+"18 priority PAHs (100-500 g/mol, pK<-2)",2378,"18 priority PAHs (100-500 g/mol, pK<-2)"
+"Non-polar pesticides in molecular mass range 100-500, and polarity <-2 (NON-POLAR)",2379,"Non-polar pesticides in molecular mass range 100-500, and polarity <-2 (NON-POLAR)"
+"Non-polar PAHs in molecular mass range 100-500, and polarity <-2 (NON-POLAR)",2380,"Non-polar PAHs in molecular mass range 100-500, and polarity <-2 (NON-POLAR)"
+Di-n-octyl phthalate (DOP),2381,Di-n-octyl phthalate (DOP)
+non-polar (pKow<-2) low molar mass (194 g/mol to 450 g/mol) phthalic acid esters with C1-C8 alcohols,2382,non-polar (pKow<-2) low molar mass (194 g/mol to 450 g/mol) phthalic acid esters with C1-C8 alcohols
+in vitro transcribed RNA,2383,in vitro transcribed RNA
+oxidants expressed as KIO3,2384,oxidants expressed as KIO3
+aflatoxins,2385,aflatoxins
+Ketamine,2386,Ketamine
+"3,4-methylenedioxymethamphetamine (MDMA)",2387,"3,4-methylenedioxymethamphetamine (MDMA)"
+Ammonium ion,2388,Ammonium ion
+Dissolved silica,2389,Dissolved silica
+Nitrate ion,2390,Nitrate ion
+albumin,2391,albumin
+Nitrite ion,2392,Nitrite ion
+Phosphate ion,2393,Phosphate ion
+silicon isotopes,2394,silicon isotopes
+Molar mass of Sillicon,2395,Molar mass of Sillicon
+Trichloroacetic Acid,2396,Trichloroacetic Acid
+"3,5-bis(trifluoromethyl)benzoic acid",2397,"3,5-bis(trifluoromethyl)benzoic acid"
+"1,4-bis(trimethylsilyl)-2, 3, 5, 6-tetrafluorobenzene",2398,"1,4-bis(trimethylsilyl)-2, 3, 5, 6-tetrafluorobenzene"
+4-Hydroxy-clomifene,2399,4-Hydroxy-clomifene
+(E)-4-Hydroxy-clomifene,2400,(E)-4-Hydroxy-clomifene
+(Z)-4-Hydroxy-clomifene,2401,(Z)-4-Hydroxy-clomifene
+"3β, 4α-Dihydroxy-5α-androstan-17-one",2402,"3β, 4α-Dihydroxy-5α-androstan-17-one"
+"quantification of the ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from an unprocessed, high starch ground seed matrix, with a copy number ratio from 0.005 to 1",2403,"quantification of the ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from an unprocessed, high starch ground seed matrix, with a copy number ratio from 0.005 to 1"
+"Quantification of the ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from an unprocessed, high fat/oil ground seed matrix, with a copy number ratio from 0.001 to 1",2404,"Quantification of the ratio of the number of copies of specified intact sequence fragments of a length up to 150 nucleotides following extraction from an unprocessed, high fat/oil ground seed matrix, with a copy number ratio from 0.001 to 1"
+di-n-butyl phthalate(DBP),2405,di-n-butyl phthalate(DBP)
+SNV variant-containing and wild-type (reference sequece) DNA of defined gene region (<200 bases) where the templates are of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure.,2406,SNV variant-containing and wild-type (reference sequece) DNA of defined gene region (<200 bases) where the templates are of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure.
+Copper mass fraction in aqueous solution,2407,Copper mass fraction in aqueous solution
+Deletion variant-containing and wild-type (reference sequece) DNA of defined gene region (<200 bases) where the templates are of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure.,2408,Deletion variant-containing and wild-type (reference sequece) DNA of defined gene region (<200 bases) where the templates are of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure.
+Single Nucleotide Variant (SNV)-containing DNA copies in template DNA of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure,2409,Single Nucleotide Variant (SNV)-containing DNA copies in template DNA of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure
+Deletion variant-containing DNA copies in template of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure,2410,Deletion variant-containing DNA copies in template of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure
+methyl 4-hydroxybenzoate,2411,methyl 4-hydroxybenzoate
+butyl 4-hydroxybenzoate,2412,butyl 4-hydroxybenzoate
+Wild-type DNA copies of defined gene region (<200 bases) where template is of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure,2413,Wild-type DNA copies of defined gene region (<200 bases) where template is of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure
+Envelop protein gene (E) of SARS-CoV-2 in transcribed RNA,2414,Envelop protein gene (E) of SARS-CoV-2 in transcribed RNA
+Nucleocapsid protein gene (N) of SARS-CoV-2 in transcribed RNA,2415,Nucleocapsid protein gene (N) of SARS-CoV-2 in transcribed RNA
+amount-of-substance fraction of Si28,2416,amount-of-substance fraction of Si28
+amount-of-substance fraction of Si29,2417,amount-of-substance fraction of Si29
+amount-of-substance fraction of Si30,2418,amount-of-substance fraction of Si30
+Lead mass fraction in aqueous solution,2419,Lead mass fraction in aqueous solution
+Zinc mass fraction in aqueous solution,2420,Zinc mass fraction in aqueous solution
+Iron mass fraction in aqueous solution,2421,Iron mass fraction in aqueous solution
+Cadmium mass fraction in aqueous solution,2422,Cadmium mass fraction in aqueous solution
+Arsenic mass fraction in aqueous solution,2423,Arsenic mass fraction in aqueous solution
+Mercury mass fraction in aqueous solution,2424,Mercury mass fraction in aqueous solution
+Silver mass fraction in aqueous solution,2425,Silver mass fraction in aqueous solution
+Chromium mass fraction in aqueous solution,2426,Chromium mass fraction in aqueous solution
+Nickel mass fraction in aqueous solution,2427,Nickel mass fraction in aqueous solution
+Fluoride mass fraction in aqueous solution,2428,Fluoride mass fraction in aqueous solution
+Chloride mass fraction in aqueous solution,2429,Chloride mass fraction in aqueous solution
+Nitrate mass fraction in aqueous solution,2430,Nitrate mass fraction in aqueous solution
+Sulphate mass fraction in aqueous solution,2431,Sulphate mass fraction in aqueous solution
+Manganese mass fraction in aqueous solution,2432,Manganese mass fraction in aqueous solution
+Aluminium mass fraction in aqueous solution,2433,Aluminium mass fraction in aqueous solution
+Calcium mass fraction in aqueous solution,2434,Calcium mass fraction in aqueous solution
+Imidacloprid,2435,Imidacloprid
+Clothianidin,2436,Clothianidin
+Thiamethoxam,2437,Thiamethoxam
+monodisperse polystyrene latex spheres with nominal diameter ranging from >1.5 μm to 10.0 μm,2438,monodisperse polystyrene latex spheres with nominal diameter ranging from >1.5 μm to 10.0 μm
+"Structure analogues of aflatoxin B, G, M groups, with molecular mass of 100 g/mol to 500 g/mol, having low polarity pKow < -2, in mass fraction range from 2 to 50 mg/kg in organic solvents",2439,"Structure analogues of aflatoxin B, G, M groups, with molecular mass of 100 g/mol to 500 g/mol, having low polarity pKow < -2, in mass fraction range from 2 to 50 mg/kg in organic solvents"
+≤15bp Deletion variant-containing and wild-type (reference sequece) DNA of defined gene region (<200 bases) where the templates are of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure.,2440,≤15bp Deletion variant-containing and wild-type (reference sequece) DNA of defined gene region (<200 bases) where the templates are of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure.
+≤15bp Deletion variant-containing DNA copies in template of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure,2441,≤15bp Deletion variant-containing DNA copies in template of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure
+fipronil sulfone,2442,fipronil sulfone
+Vanillin,2443,Vanillin
+aflatoxin AFB1,2444,aflatoxin AFB1
+Wild-type (reference sequence) DNA copies of defined gene region (<200 bases) where template is of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure,2445,Wild-type (reference sequence) DNA copies of defined gene region (<200 bases) where template is of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure
+Single Nucleotide Variant (SNV)-containing and wild-type (reference sequence) DNA of defined gene region (<200 bases) where the templates are of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure.,2446,Single Nucleotide Variant (SNV)-containing and wild-type (reference sequence) DNA of defined gene region (<200 bases) where the templates are of minimum size corresponding to the coordinates of the PCR amplicon and free of secondary structure.
+2-methylpropane,2447,2-methylpropane
+carbon,2448,carbon
+Bis (2-ethylhexyl) Phthalate (DEHP),2449,Bis (2-ethylhexyl) Phthalate (DEHP)
+"Structure analogues of aflatoxin B, G, M groups, with molecular mass of 100 g/mol to 500 g/mol, having high polarity pKow > -2, in mass fraction range from 2 to 50 mg/kg in organic solvents",2450,"Structure analogues of aflatoxin B, G, M groups, with molecular mass of 100 g/mol to 500 g/mol, having high polarity pKow > -2, in mass fraction range from 2 to 50 mg/kg in organic solvents"
+m-/p-xylene,2451,m-/p-xylene
+aflatoxina B1,2452,aflatoxina B1
+hafnium dioxide,2453,hafnium dioxide
+N-Nitrosodimethylamine,2454,N-Nitrosodimethylamine
+11-oxoetiocholanolone,2455,11-oxoetiocholanolone
+11β-hydroxyandrosterone,2456,11β-hydroxyandrosterone
+Pregnanediol,2457,Pregnanediol
+16-androstenol,2458,16-androstenol
+Chemically synthesized glycosylated hexapeptide [N-(1-Deoxy-D-fructos-1-yl)-L-valyl-L-histidyl-L-leucyl-L-threonyl-L-prolyl-L-glutamic acid],2459,Chemically synthesized glycosylated hexapeptide [N-(1-Deoxy-D-fructos-1-yl)-L-valyl-L-histidyl-L-leucyl-L-threonyl-L-prolyl-L-glutamic acid]
+Chemically systhesized glycosylated hexapeptide [N-(1-Deoxy-D-fructos-1-yl)-L-valyl-L-histidyl-L-leucyl-L-threonyl-L-prolyl-L-glutamic acid],2460,Chemically systhesized glycosylated hexapeptide [N-(1-Deoxy-D-fructos-1-yl)-L-valyl-L-histidyl-L-leucyl-L-threonyl-L-prolyl-L-glutamic acid]
+hexamethyldisiloxane,2461,hexamethyldisiloxane
+octamethyltrisiloxane,2462,octamethyltrisiloxane
+hexamethylcyclotrisiloxane,2463,hexamethylcyclotrisiloxane
+octamethylcyclotetrasiloxane,2464,octamethylcyclotetrasiloxane
+decamethylcyclopentasiloxane,2465,decamethylcyclopentasiloxane
+iridium,2466,iridium
+ruthenium,2467,ruthenium
+Linear - Perfluorooctanoic acid (L-PFOA),2468,Linear - Perfluorooctanoic acid (L-PFOA)
+Linear - Perfluorooctane sulfonate (L-PFOS),2469,Linear - Perfluorooctane sulfonate (L-PFOS)
+Perfluorooctane sulfonate,2470,Perfluorooctane sulfonate
+linear perflurooctane sulfonate,2471,linear perflurooctane sulfonate
+carbon isotope delta,2472,carbon isotope delta
+total sulphur,2473,total sulphur
+DNA,2474,DNA
+Plasmid DNA,2475,Plasmid DNA
+nivalenol,2476,nivalenol
+3-acetyldeoxynivalenol,2477,3-acetyldeoxynivalenol
+15-acetyldeoxynivalenol,2478,15-acetyldeoxynivalenol
+"benzo(g,h,i)perylene",2479,"benzo(g,h,i)perylene"
+"Indeno(1,2,3-cd)pyrene",2480,"Indeno(1,2,3-cd)pyrene"
+diisobutyl phthalate,2481,diisobutyl phthalate
+dicyclohexyl phthalate,2482,dicyclohexyl phthalate
+total base expressed as sodium hydroxide,2483,total base expressed as sodium hydroxide
+arsenous acid,2484,arsenous acid
+"chemically synthesized peptides of known sequence, without cross-links, up to 5 kDa and modification (mono-glycation)",2485,"chemically synthesized peptides of known sequence, without cross-links, up to 5 kDa and modification (mono-glycation)"
+"chemically synthesized peptides of known sequence, without cross-links, up to 5 kDa and without modifications",2486,"chemically synthesized peptides of known sequence, without cross-links, up to 5 kDa and without modifications"
+zeolite,2487,zeolite
+Activated nanoporous carbon,2488,Activated nanoporous carbon
+monodisperse polystyrene latex spheres with nominal diameter ranging from 0.1 μm to 1.5 μm,2489,monodisperse polystyrene latex spheres with nominal diameter ranging from 0.1 μm to 1.5 μm
+Monodisperse polystyrene latex spheres with nominal diameter ranging from > 10.0 μm to 15.0 μm,2490,Monodisperse polystyrene latex spheres with nominal diameter ranging from > 10.0 μm to 15.0 μm
+dimethylsulfide,2491,dimethylsulfide
+Total alkalinity,2492,Total alkalinity
+Total acidity,2493,Total acidity
+HCB,2494,HCB
+Total strong acid,2495,Total strong acid
+Total strong base content,2496,Total strong base content
+Monodisperse polystyrene latex spheres with nominal diameter ranging from > 10.1 μm to 15.0 μm,2497,Monodisperse polystyrene latex spheres with nominal diameter ranging from > 10.1 μm to 15.0 μm
+Hafnium oxide,2498,Hafnium oxide
+Cd,2499,Cd
+Hexapeptide (L-valyl-L-histidyl-L-leucyl-L-threonyl-L-prolyl-L-glutamic acid),2500,Hexapeptide (L-valyl-L-histidyl-L-leucyl-L-threonyl-L-prolyl-L-glutamic acid)
+histamine,2501,histamine
+"Silica, alumina and other nonporous materials",2502,"Silica, alumina and other nonporous materials"
+Zeolites and other microporous materials,2503,Zeolites and other microporous materials
+chemically synthesized sulfur containing peptides of known sequence up to 5kDa with a content of peptidic purity more than 75%,2504,chemically synthesized sulfur containing peptides of known sequence up to 5kDa with a content of peptidic purity more than 75%
+193Ir,2505,193Ir
+191Ir,2506,191Ir
+184Os,2507,184Os
+186Os,2508,186Os
+187Os,2509,187Os
+188Os,2510,188Os
+189Os,2511,189Os
+190Os,2512,190Os
+192Os,2513,192Os
+174Hf,2514,174Hf
+176Hf,2515,176Hf
+177Hf,2516,177Hf
+178Hf,2517,178Hf
+179Hf,2518,179Hf
+180Hf,2519,180Hf
+175Lu,2520,175Lu
+176Lu,2521,176Lu
+180W,2522,180W
+182W,2523,182W
+183W,2524,183W
+184W,2525,184W
+186W,2526,186W
+204Pb,2527,204Pb
+206Pb,2528,206Pb
+207Pb,2529,207Pb
+208Pb,2530,208Pb
+234U/238U,2531,234U/238U
+90Zr,2532,90Zr
+91Zr,2533,91Zr
+92Zr,2534,92Zr
+94Zr,2535,94Zr
+96Zr,2536,96Zr
+152Gd,2537,152Gd
+154Gd,2538,154Gd
+155Gd,2539,155Gd
+156Gd,2540,156Gd
+157Gd,2541,157Gd
+158Gd,2542,158Gd
+160Gd,2543,160Gd
+63Cu,2544,63Cu
+65Cu,2545,65Cu
+PFBS-K,2546,PFBS-K
+isotope ratio of 65Cu/63Cu,2547,isotope ratio of 65Cu/63Cu
+alpha--chlordane,2548,alpha--chlordane
+maleic acid,2549,maleic acid
+dimethyl sulfone,2550,dimethyl sulfone
+ethylparaben,2551,ethylparaben
+Zeolites,2552,Zeolites
+silicon oxide,2553,silicon oxide
+total hydrocarbons except methane,2554,total hydrocarbons except methane
+other hydrocarbons except methane,2555,other hydrocarbons except methane
+Zearalenone (E),2556,Zearalenone (E)
+total content of base expressed as sodium carbonate,2557,total content of base expressed as sodium carbonate
+cybutryne,2558,cybutryne
+"Phthalates (molar mass < 500 g/mol, polarity pKow < -2)",2559,"Phthalates (molar mass < 500 g/mol, polarity pKow < -2)"
+6 priority phthalates,2560,6 priority phthalates
+"DMP, DEP, DBP, BBP, DEHP, DOP",2562,"DMP, DEP, DBP, BBP, DEHP, DOP"
+non-porous silicon dioxide,2563,non-porous silicon dioxide
+Sulfur-containing amyloid-beta (Aβ),2564,Sulfur-containing amyloid-beta (Aβ)
+C2-C8,2565,C2-C8
+soot particles,2566,soot particles
+airborne nanoparticles,2567,airborne nanoparticles
+Organic compounds with molecular molar mass of 100 g/mol to 500 g/mol and polarity pKow < -2,2568,Organic compounds with molecular molar mass of 100 g/mol to 500 g/mol and polarity pKow < -2
+"Ratio of Human erb-b2 receptor tyrosine kinase 2 (HER2) gene DNA copy number (Gene symbol ERBB2, Gene ID: 2064) to Human ribonuclease P RNA component H1 gene DNA copy number (Gene symbol RPPH1, Gene ID: 85495)",2569,"Ratio of Human erb-b2 receptor tyrosine kinase 2 (HER2) gene DNA copy number (Gene symbol ERBB2, Gene ID: 2064) to Human ribonuclease P RNA component H1 gene DNA copy number (Gene symbol RPPH1, Gene ID: 85495)"
+DL-phenylalanine,2570,DL-phenylalanine
+"Structure analogues of non-steroidal estrogens with molecular mass of 200-500 g/mol, having low polarity pKow< -2, including dienestrol, hexestrol and related non-steroidal estrogens substances.",2571,"Structure analogues of non-steroidal estrogens with molecular mass of 200-500 g/mol, having low polarity pKow< -2, including dienestrol, hexestrol and related non-steroidal estrogens substances."
+high polarity organic compounds (pKow > and = -2) with Mwt between 75-500 g/mol in the form of salt materials,2572,high polarity organic compounds (pKow > and = -2) with Mwt between 75-500 g/mol in the form of salt materials
+chloride ion,2573,chloride ion
+SARS-Co-V2 (NC_045512.2) specified RNA sequence,2574,SARS-Co-V2 (NC_045512.2) specified RNA sequence
+"Human erb-b2 receptor tyrosine kinase 2 (HER2) gene DNA (Gene symbol ERBB2, Gene ID: 2064)",2575,"Human erb-b2 receptor tyrosine kinase 2 (HER2) gene DNA (Gene symbol ERBB2, Gene ID: 2064)"
+"Human ribonuclease P RNA component H1 gene DNA (Gene symbol RPPH1, Gene ID: 85495)",2576,"Human ribonuclease P RNA component H1 gene DNA (Gene symbol RPPH1, Gene ID: 85495)"
+Di-ethyl Phthalate (DMP),2577,Di-ethyl Phthalate (DMP)
+Black carbon,2578,Black carbon
+28 amino acids,2579,28 amino acids
+"Organic components in mass range 50 - 500 g/mol, high to mid-polarity pKow >-4",2580,"Organic components in mass range 50 - 500 g/mol, high to mid-polarity pKow >-4"
+"Non-polar pesticides in molecular mass range 100-500, and polarity pKow <-2",2581,"Non-polar pesticides in molecular mass range 100-500, and polarity pKow <-2"
+sum of oxygen and argon,2582,sum of oxygen and argon
+Nitrate (as NO3−),2583,Nitrate (as NO3−)
+oxytetracycline,2584,oxytetracycline
+Oxytetracycline hydrochloride,2585,Oxytetracycline hydrochloride
+Amino acids,2586,Amino acids
+mass fraction of nitrogen,2587,mass fraction of nitrogen
+"Pt, Pd, Ru, Ir, Ag",2588,"Pt, Pd, Ru, Ir, Ag"
+"Rh, Au",2589,"Rh, Au"
+"Water sol. As species including iAs, DMA, mono-, tri-, & tetra-methyl arsenic compounds (MAA, TMAO, TeMA)",2590,"Water sol. As species including iAs, DMA, mono-, tri-, & tetra-methyl arsenic compounds (MAA, TMAO, TeMA)"
+"Organic compounds in mass range 100 - 500 g/mol, low polarity pKow <-2",2591,"Organic compounds in mass range 100 - 500 g/mol, low polarity pKow <-2"
+"Non-polar organic compounds in molecular mass range 100-500 g/mol, and polarity pKow <-2",2592,"Non-polar organic compounds in molecular mass range 100-500 g/mol, and polarity pKow <-2"
+high purity organic compounds excluding salts,2593,high purity organic compounds excluding salts
+"""organic compounds in the range of 100-1000 g/mol excluding salts""",2594,"""organic compounds in the range of 100-1000 g/mol excluding salts"""
+(DL)-Phenylalanine,2595,(DL)-Phenylalanine
+"""polar (pKow > -2) organic compounds with molar mass of 75-500 g/mol in the form of salt material """,2596,"""polar (pKow > -2) organic compounds with molar mass of 75-500 g/mol in the form of salt material """
+Platinum Group elements,2597,Platinum Group elements
+As,2598,As
+"halides (Br-, Cl-, I-) expressed as potassium bromide",2599,"halides (Br-, Cl-, I-) expressed as potassium bromide"
+Cu,2600,Cu
+Zn,2601,Zn
+Pt,2602,Pt
+Mass fraction purity of organic compounds in the form of salts with molar mass below 500 g/mol,2603,Mass fraction purity of organic compounds in the form of salts with molar mass below 500 g/mol
+Oxytetracycline hydrochloride salt,2604,Oxytetracycline hydrochloride salt
+bromide ion,2605,bromide ion
+Mass fraction of halogen containing pesticides (pKow <-2) in mass range 100-500 g/mol,2606,Mass fraction of halogen containing pesticides (pKow <-2) in mass range 100-500 g/mol
+"DNA copy number ratio of Human erb-b2 receptor tyrosine kinase 2 (HER2) gene (Gene symbol ERBB2, Gene ID: 2064) to Human ribonuclease P RNA component H1 gene (Gene symbol RPPH1, Gene ID: 85495)",2607,"DNA copy number ratio of Human erb-b2 receptor tyrosine kinase 2 (HER2) gene (Gene symbol ERBB2, Gene ID: 2064) to Human ribonuclease P RNA component H1 gene (Gene symbol RPPH1, Gene ID: 85495)"
+"Ratio of Human erb-b2 receptor tyrosine kinase 2 (HER2) gene (Gene symbol ERBB2, Gene ID: 2064) to Human ribonuclease P RNA component H1 gene (Gene symbol RPPH1, Gene ID: 85495)",2608,"Ratio of Human erb-b2 receptor tyrosine kinase 2 (HER2) gene (Gene symbol ERBB2, Gene ID: 2064) to Human ribonuclease P RNA component H1 gene (Gene symbol RPPH1, Gene ID: 85495)"
+Mass fraction purity of organic compounds of high polarity (pKOW > -2) in the form of salts with molar mass below 500 g/mol,2609,Mass fraction purity of organic compounds of high polarity (pKOW > -2) in the form of salts with molar mass below 500 g/mol

@@ -1,0 +1,8 @@
+value,id,_areaId,label
+"Acoustics, Ultrasound, Vibration",1,PHYSICS,AUV
+Electricity and Magnetism,2,PHYSICS,EM
+Length,3,PHYSICS,L
+Mass and related quantities,4,PHYSICS,M
+Photometry and Radiometry,5,PHYSICS,PR
+Thermometry,6,PHYSICS,T
+Time and Frequency,7,PHYSICS,TF

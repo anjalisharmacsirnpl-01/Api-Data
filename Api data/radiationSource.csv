@@ -1,0 +1,34 @@
+id,value,label
+1,Other,1
+2,Electrons,2
+3,Beta radiation,3
+4,"X-ray, 10 kV to 50 kV",4
+5,"X-ray, 50 kV to 420 kV",5
+6,"Photons, high energy",6
+7,Co-60,7
+8,Cs-137,8
+9,Ir-192,9
+10,Am-241,10
+11,Co-57,11
+12,I-125,12
+13,Pd-103,13
+14,"X-ray, 50 kV to 300 kV",15
+15,"X ray, 300 kV to 600 kV",16
+16,Protons,17
+17,Heavy ions,18
+32,Single-radionuclide source,1
+33,Multi-radionuclide source,2
+34,K x-rays,3
+35,Other,1
+36,Mono-energetic neutrons,2
+37,Thermal neutron distribution,3
+38,Wide energy range neutrons,4
+39,Cf-252 source,5
+40,"Cf-252 source, D2O moderated",6
+41,Am-241/Be-9 source,7
+42,Am-241/B source,8
+43,Am-241/Li-7 source,9
+44,Am-241/F-19 source,10
+45,Radionuclide sources,11
+46,High energy (>20 MeV) quasi-mono-energetic neutrons,12
+50,Ra-226,14

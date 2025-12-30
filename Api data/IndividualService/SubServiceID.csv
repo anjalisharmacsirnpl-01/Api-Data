@@ -1,0 +1,616 @@
+value,id,_subServiceId,label
+Modulus,1,1,1
+Phase,2,1,2
+Directivity,5,2,3
+Modulus,3,2,1
+Phase,4,2,2
+Modulus,6,3,1
+Phase,7,3,2
+Sound pressure level,8,4,1
+Sound pressure level,9,5,1
+Diffuse field response level,12,6,3
+Free-field response level,11,6,2
+Sound intensity response level,13,6,4
+Sound pressure response level,10,6,1
+Acoustic impedance,15,7,2
+System response level,14,7,1
+Force response level,16,8,1
+Mechanical impedance,17,8,2
+Modulus of charge sensitivity,18,9,1
+Phase shift of charge sensitivity,19,9,2
+Modulus of voltage sensitivity,20,10,1
+Phase shift of voltage sensitivity,21,10,2
+Directivity,23,11,2
+Sound power level,22,11,1
+Air-conduction response level,24,12,1
+Bone-conduction response level,25,12,2
+Frequency response (modulus or phase),26,13,1
+Shock response (modulus),27,13,2
+Acceleration output (modulus),28,14,1
+Shock output (modulus),29,14,2
+Charge sensitivity (modulus or phase),30,15,1
+Current sensitivity (modulus or phase),34,15,5
+Shock charge sensitivity (modulus),31,15,2
+Shock voltage sensitivity (modulus or phase),33,15,4
+Voltage sensitivity (modulus or phase),32,15,3
+Shock sensitivity (modulus),36,16,2
+Voltage sensitivity (modulus or phase),35,16,1
+Angular acceleration response (modulus),37,17,1
+Shock response (modulus),38,17,2
+Angular acceleration output (modulus),39,18,1
+Charge sensitivity (modulus or phase),40,19,1
+Current sensitivity (modulus or phase),42,19,5
+Voltage sensitivity (modulus or phase),41,19,3
+Voltage sensitivity (modulus or phase),43,20,1
+Frequency response (modulus or phase),44,21,1
+Shock response (modulus),45,21,2
+Charge sensitivity (modulus or phase),46,22,1
+Shock charge sensitivity (modulus or phase),47,22,2
+Shock voltage sensitivity (modulus or phase),49,22,4
+Voltage sensitivity (modulus or phase),48,22,3
+Charge sensitivity (modulus or phase),50,23,1
+Current sensitivity (modulus or phase),52,23,3
+Voltage sensitivity (modulus or phase),51,23,2
+Modulus,53,24,1
+Phase,54,24,2
+Modulus,55,25,1
+Phase,56,25,2
+Modulus,57,26,1
+Phase,58,26,2
+Modulus,59,27,1
+Phase,60,27,2
+Directivity,62,28,2
+Ultrasonic power,61,28,1
+Ultrasonic pressure,63,28,3
+Directivity,65,29,2
+Electroacoustic radiation conductance,64,29,1
+Ultrasonic power,66,29,3
+AC-DC transfer difference at higher voltages (> 5 V),69,30,3
+AC-DC transfer difference at low voltages (<= 0.5 V),67,30,1
+AC-DC transfer difference at medium voltages (0.5 V to 5 V),68,30,2
+Meters,71,31,2
+Sources,70,31,1
+Attenuation and gain,73,32,2
+Real component and imaginary component,72,32,1
+AC-DC transfer difference,74,33,1
+Meters,76,34,2
+Sources,75,34,1
+Real component and imaginary component,77,35,1
+Single phase at frequencies <= 400 Hz,78,36,1
+Single phase at frequencies > 400 Hz,79,36,2
+Three phase,80,36,3
+Intermediate values (from above 10 V up to 1100 V),83,37,3
+Low values (below or equal to 10 V),82,37,2
+Noise voltages,84,37,4
+Single values,81,37,1
+Intermediate values (from above 1 mV up to 1100 V),86,38,2
+Very low values (below or equal to 1 mV),85,38,1
+Attenuation,88,39,2
+Up to 1100 V,87,39,1
+High values (above 1 megaohm),91,40,3
+Intermediate values (from above 1 ohm up to 1 megaohm),90,40,2
+Low values (below or equal to 1 ohm),89,40,1
+Multiple ranges,93,40,5
+Standards for high current,92,40,4
+"Temperature, power and pressure coefficients",94,40,6
+High values (above 1 gigaohm),97,41,3
+Intermediate values (from above 1 ohm up to 1 gigaohm),96,41,2
+Low values (<= 1 ohm),95,41,1
+DC resistance ratios,98,42,1
+High values (from above 20 A up to 100 A),101,43,3
+Intermediate values (from above 0.1 mA to 20 A),100,43,2
+Low values (below 0.1 mA),99,43,1
+Noise currents,103,43,5
+Transconductance ratio,102,43,4
+High values (from above 20 A up to 100 A),106,44,3
+Intermediate values (from above 0.1 mA to 20 A),105,44,2
+Low values (below or equal to 0.1 mA),104,44,1
+Ratios up to 100 A,107,45,1
+Electric field strength,109,46,2
+Electrostatic field strength,108,46,1
+AC magnetic flux density and applied magnetic field strength,112,47,3
+AC shielding factor (ratio of AC magnetic flux density),114,47,5
+DC magnetic flux density and applied magnetic field strength,111,47,2
+DC shielding factor (ratio of DC magnetic flux density),113,47,4
+Magnetic field gradient,117,47,8
+Magnetic flux,110,47,1
+Magnetic flux density or magnetic field strength per unit current,116,47,7
+Turn area (ratio of magnetic flux and magnetic flux density),115,47,6
+Electric field strength,118,48,1
+Magnetic field strength,119,48,2
+Magnetic field strength per unit current,122,48,5
+Magnetic flux density,121,48,4
+Power flux density,120,48,3
+Turn area (ratio of magnetic flux and magnetic flux density),123,48,6
+Average value of DC voltage,127,49,4
+High voltage meters,125,49,2
+High voltage sources,124,49,1
+Ratios,126,49,3
+RMS value of DC voltage ripple,128,49,5
+Burden: real and imaginary component (real component/imaginary component/modulus/argument),131,50,3
+Capacitance and dissipation factor,129,50,1
+Inductance and loss angle,130,50,2
+Resistance,132,50,4
+Meters,134,51,2
+Peak values of high AC voltage,135,51,3
+Rectified average value of high AC voltage,138,51,6
+RMS value for high AC voltage,137,51,5
+Sources,133,51,1
+Voltage transformers: ratio error and phase displacement,136,51,4
+Parameters for impulse current,143,52,5
+Parameters for lightning impulse voltage,139,52,1
+Parameters for other impulse voltage types,147,52,9
+Parameters for switching impulse voltage,141,52,3
+Apparent charge,148,53,1
+Response,149,53,2
+Rise time of partial discharge pulse,150,53,3
+Current transformers: ratio error and phase displacement,153,54,3
+High AC current RMS value,155,54,5
+Other AC current parameters,156,54,6
+High DC current average value,160,55,4
+High DC current ratio,159,55,3
+AC resistance ratios,165,56,5
+AC-DC difference,162,56,2
+Meters,164,56,4
+Real component and imaginary component,161,56,1
+Resistors for high current,163,56,3
+Capacitance and dissipation factor for dielectric capacitors,167,57,2
+Capacitance and dissipation factor for low loss capacitors,166,57,1
+Capacitance and dissipation factor for transformed capacitors,168,57,3
+Meters,169,57,4
+Meters,174,58,5
+Mutual inductance,173,58,4
+Quality factor,175,58,6
+"Self inductance, high values (above 1 H)",172,58,3
+"Self inductance, intermediate values (from 1 mH up to 1 H)",171,58,2
+"Self inductance, low values (below 1 mH)",170,58,1
+Liquids,177,59,2
+Metallic materials,176,59,1
+Semiconducting and similar materials,178,59,3
+Dielectric loss tangent,180,60,2
+Relative permittivity: real and - or imaginary part,179,60,1
+Complex relative permeability,189,61,8
+Density,190,61,9
+Peak value of AC magnetic polarisation,184,61,3
+Peak value of DC magnetic polarisation,183,61,2
+Peak value of magnetic field strength,185,61,4
+Relative peak permeability,188,61,7
+Resistivity,182,61,10
+RMS value of magnetic field strength,186,61,5
+Specific apparent power,187,61,6
+Specific total power loss,181,61,1
+Coercive magnetic field strength,194,62,4
+Magnetic field strength,192,62,2
+Magnetic polarisation,191,62,1
+Magnetic saturation polarisation,195,62,5
+Relative permeability,196,62,6
+Remanent magnetic flux density,193,62,3
+DC magnetic susceptibility or relative magnetic permeability,197,63,1
+Coercive field strength,199,64,2
+Magnetic flux density,202,64,5
+Magnetic moment,201,64,4
+Magnetic polarisation,203,64,6
+Maximum energy product,200,64,3
+Relative recoil permeability,204,64,7
+Remanent magnetic flux density,198,64,1
+Overwrite of diskettes,211,65,7
+Peak shift of diskettes,210,65,6
+Reference field of diskettes,207,65,3
+Resolution of diskettes,209,65,5
+Signal amplitude of diskettes,208,65,4
+Signal amplitude of magnetic stripes,205,65,1
+Surface profile of magnetic stripes,206,65,2
+Video and audio tapes,212,65,8
+Meters,214,66,2
+Sources,213,66,1
+Meters,216,67,2
+Phase shift,217,67,3
+Sources,215,67,1
+Main frequency harmonics,218,68,1
+Mains frequency fluctuating harmonics,221,68,4
+Mains frequency harmonic distorsion,219,68,2
+Mains frequency interharmonics,224,68,7
+Mains frequency voltage fluctuations,222,68,5
+Absolute power in coaxial line,225,69,1
+Absolute power in waveguide,226,69,2
+Calibration factor and effective efficiency in coaxial line,227,69,3
+Calibration factor and effective efficiency in waveguide,228,69,4
+Non-CW power (absolute or relative),229,69,5
+Power measurements in balanced lines,230,69,6
+Attenuation in coaxial line (values in dB),233,70,3
+Attenuation in waveguide (values in dB),234,70,4
+"Directivity, effective source match",235,70,5
+Reflection and attenuation measurements in balanced lines,236,70,6
+Reflection coefficient in coaxial line (values in linear terms),231,70,1
+Reflection coefficient in waveguide (values in linear terms),232,70,2
+"Directivity, effective source match",241,71,5
+Reflection coefficient (Sii) in planar line systems,1025,71,8
+Reflection coefficient for common mode systems,242,71,6
+Reflection coefficient in coaxial line (real and imaginary),237,71,1
+Reflection coefficient in waveguide (real and imaginary),238,71,2
+Transmission coefficient (Sij) in planar line systems,1024,71,9
+Transmission coefficient for common mode systems,243,71,7
+Transmission coefficient in coaxial line (real and imaginary),239,71,3
+Transmission coefficient in waveguide (real and imaginary),240,71,4
+Amplifier noise parameters,246,72,3
+Noise temperature or excess noise ratio in coaxial line,244,72,1
+Noise temperature or excess noise ratio in waveguide,245,72,2
+Phase noise,247,72,4
+"Radio brightness temperature, spectral radiance in free space",248,72,5
+Antenna factor,249,73,1
+Antenna gain,250,73,2
+"Other properties (pattern, beam width, …)",251,73,3
+Distorsion and harmonic content,255,74,4
+"Modulation, AM and FM",254,74,3
+Pulse amplitude,252,74,1
+Pulse time parameters,253,74,2
+Flatness of RF voltage meters,264,75,9
+Flatness of RF voltage sources,263,75,8
+RF coupling factor,262,75,7
+RF current,259,75,4
+RF transfer impedance,260,75,5
+RF voltage division factor,261,75,6
+RF voltage meters,258,75,3
+RF voltage sources,257,75,2
+RF-DC difference,256,75,1
+Capacitance,267,76,3
+Inductance,266,76,2
+Quality factor,268,76,4
+Resistance or conductance,265,76,1
+Electrical parameters,270,77,2
+Mechanical dimensions,269,77,1
+"(Laser, length) interferometer (system, optics, refractometer)",271,78,1
+Dial-indicator tester,277,78,7
+EDM instrument,272,78,2
+Gauge block comparators,276,78,6
+Height measuring instrument,274,78,4
+"One-dimension displacement transducer or actuator (LVDT, PZT, etc.)",275,78,5
+One-dimension measuring machine,273,78,3
+Feeler (thickness) gauge,283,79,6
+Gap gauge,282,79,5
+Gauge block,278,79,1
+Length bar (long gauge block),279,79,2
+Plane or thread micrometer setting rod,280,79,3
+Step gauge,281,79,4
+"(Surveyor, engineer, pi) tape, (geodetic) wire",290,80,7
+"Engineer or machinist scale, steel",292,80,9
+Grid plate,286,80,3
+Linewidth standard,289,80,6
+One-dimension grating,287,80,4
+Precision line scale,284,80,1
+Stage micrometer,285,80,2
+Surveyor levelling rod,291,80,8
+Two-dimension grating,288,80,5
+"External cylinder (plug, piston, pin, wire)",293,81,1
+Internal cylinder (ring),294,81,2
+Sphere (ball),295,81,3
+Index table,297,82,2
+Optical polygon,296,82,1
+"Rotary table, rotary encoder scale",298,82,3
+Sine bar or table,299,83,1
+(Bevel) protractor,305,84,6
+Angular interferometer,1090,84,8
+Autocollimator,300,84,1
+Clinometer,302,84,3
+Electronic level,301,84,2
+Spirit (bubble) level,303,84,4
+Squareness tester,306,84,7
+Theodolite,304,84,5
+"90° (steel, granite, try) square",308,85,2
+90° cylinder square,309,85,3
+Angle block,307,85,1
+Cone (taper) gauge,310,85,4
+Optical square (pentaprism),311,86,1
+"Retroreflection (cube-corner, cat-eye) prism",312,86,2
+Optical flat,313,87,1
+Optical parallel or wedge,314,87,2
+Surface plate,315,87,3
+External cylinder,316,88,1
+Internal cylinder,317,88,2
+Magnification standard (e.g. flick standard),319,88,4
+Sphere (hemisphere),318,88,3
+Cylindrical straightness standard,321,89,2
+Straight edge,320,89,1
+Straightness of guideway,322,89,3
+External cylinder,323,90,1
+Internal cylinder,324,90,2
+"Lens, radius standards",325,91,1
+(Groove) depth (step height) standard,326,92,1
+Profile coordinate standard,330,92,5
+Roughness standard,329,92,4
+Soft gauge standard,331,92,6
+Spacing standard,328,92,3
+Tip-condition standard,327,92,2
+External API screw thread gauge,337,93,6
+Internal API screw thread gauge,336,93,5
+"Thread plug, plain",332,93,1
+"Thread plug, tapered",333,93,2
+"Thread ring, plain",334,93,3
+"Thread ring, tapered",335,93,4
+Bevel gear,339,94,2
+Gear involute master,342,94,5
+Gear lead master,341,94,4
+Gear pitch master,340,94,3
+Involute gear,338,94,1
+"Ball (hole, bore) plate",343,95,1
+Ball bar,344,95,2
+Large CMM artefact,345,95,3
+Reference software,346,95,4
+Test circle for imaging probing systems,347,95,5
+"(Flatness, wavefront) interferometer",354,96,7
+CMM,350,96,3
+Form measuring machine,355,96,8
+Laser tracking measuring system,351,96,4
+Measuring microscope,349,96,2
+Measuring projector,348,96,1
+"Motion (translation, angle) stage",352,96,5
+Profile instruments,353,96,6
+"Hardness indenter (Rockwell, Vickers)",356,97,1
+Caliper,360,98,4
+Depth gauge,361,98,5
+Depth micrometer,359,98,3
+Dial gauge,364,98,8
+External micrometer,357,98,1
+Internal three-point (bore) micrometer,363,98,7
+Internal two-point (bore) micrometer,362,98,6
+Micrometer head,358,98,2
+"Snap gauge (internal, external)",365,98,9
+Piston - cylinder assembly,366,99,1
+Thermal expansion artefact,367,100,1
+Geodesic baseline,368,101,1
+Sieve or mesh opening,370,102,2
+Standard particle,369,102,1
+Layer thickness standard,371,103,1
+Frequency stabilized laser,374,105,1
+Spectral lamp,375,106,1
+Density of solid,376,107,1
+Volume of solid,377,107,2
+Density measuring device,378,108,1
+Density of liquid,379,108,2
+Refractive index of liquid,380,109,3
+Flow speed,384,110,4
+Gas flow,382,110,2
+Heat flow,386,110,6
+Liquid flow,381,110,1
+Multiphase flow,385,110,5
+Quantity of fluid,383,110,3
+Tension,387,111,1
+Compression,388,112,1
+Tension and compression,389,113,1
+Mass standard,390,114,1
+Gas medium,391,115,1
+Liquid medium,392,115,2
+Gas medium,393,116,1
+Liquid medium,394,116,2
+Gas medium,395,117,1
+Liquid medium,396,117,2
+Gas medium,397,118,1
+Liquid medium,398,118,2
+Torque,399,119,1
+Certified Newtonian reference liquids,400,120,1
+Capillary viscometers,401,121,1
+Viscosity measurement of Newtonian liquids,402,122,1
+Hardness,403,123,1
+Gravity,404,124,1
+Broad band detector,405,125,1
+UV radiometer,406,126,0
+Solar spectroradiometer,407,127,0
+Broad band detector,408,128,2
+Spectroradiometer,409,128,3
+Spectroradiometer,410,129,0
+General detector,411,130,0
+General detector,412,131,0
+General detector,413,132,0
+Broadband detector,415,133,1
+General detector,414,133,0
+Broadband detector,416,134,0
+UV radiometer,417,135,0
+Deuterium lamp,419,136,2
+Tungsten lamp,418,136,1
+Deuterium lamp,421,137,2
+General source,422,137,3
+Tungsten lamp,420,137,1
+Laser,423,138,1
+Deuterium lamp,425,139,2
+Tungsten lamp,424,139,1
+General source,426,140,0
+Tungsten lamp,427,140,1
+Tungsten lamp,428,141,0
+Tungsten lamp,429,142,1
+Colour temperature meter,430,143,0
+"Display, colour space: L*a*b",434,144,3
+"General source, colour space: u-prime, v-prime",433,144,2
+"General source, colour space: u, v",432,144,1
+"General source, colour space: x, y",431,144,0
+Colorimeter,435,145,0
+General source,436,146,0
+Blackbody,437,147,0
+General source,438,148,0
+LED,439,148,1
+Fibre optic power meter,440,149,0
+"Distance scale deviation, OTDR",1037,150,2
+"Length, optical fibre",441,150,0
+"Location offset, OTDR",442,150,1
+Fibre optic source,445,152,0
+Optical spectrum analyser,446,152,1
+Wavelength meter,447,152,2
+Wavelength standard,1038,152,3
+"Loss, measuring instrument",1042,153,2
+"Loss, optical fibre component",449,153,1
+"Spectral attenuation, optical fibre",448,153,0
+"Dispersion slope, measuring instrument",1036,154,5
+"Dispersion slope, optical fibre",452,154,2
+"Dispersion, measuring instrument",1034,154,3
+"Dispersion, optical fibre",450,154,0
+"Zero dispersion wavelength, measuring instrument",1035,154,4
+"Zero dispersion wavelength, optical fibre",451,154,1
+Spectrally-neutral material,453,155,1
+General material,454,156,0
+General material,455,157,0
+General material,456,158,0
+Fluorescent material,458,159,1
+General material,457,159,0
+Fluorescent material,459,160,0
+Spectrally-selective reflecting material,461,161,1
+Spectrally-selective transmitting material,460,161,0
+Solid material,462,162,0
+Liquid material,464,163,1
+Solid material,463,163,0
+General material,465,164,0
+Spectrally-neutral material,466,165,1
+Spectrally-neutral material,467,166,1
+Spectrally-neutral material,468,167,1
+Spectrally-neutral material,469,168,1
+Spectrally-neutral material,470,169,1
+Spectrally-neutral material,471,170,1
+General material,472,171,0
+Diffusely reflecting material,475,172,2
+Fluorescent material,474,172,1
+General material,473,172,0
+General material,476,173,0
+General material,477,174,0
+Diffusely reflecting material,480,175,2
+Fluorescent material,479,175,1
+General material,478,175,0
+General material,481,176,0
+General material,482,177,0
+General material,483,178,0
+General material,484,179,0
+General material,485,180,0
+General material,486,181,0
+Tungsten lamp,487,182,1
+Tungsten source,488,183,1
+LED,490,184,2
+Tungsten lamp,489,184,1
+Tungsten lamp,491,185,1
+Tungsten-based source,492,186,1
+Luminance meter,493,187,0
+LED,494,188,1
+Flash photometer,496,189,1
+General source,495,189,0
+Dew-point hygrometers,497,190,1
+Psychrometers,498,191,1
+Relative humidity sensors,499,192,1
+Other hygrometers,500,193,1
+Dew-point generators,501,194,1
+Relative humidity generators,502,195,1
+Flow mixing,503,196,1
+"Permeation tube, diffusion tube",504,197,1
+"Salt solutions (saturated, unsaturated)",505,198,1
+Reference gases,506,199,1
+Cells for contact thermometry,507,200,1
+Cells for radiation thermometry,508,200,2
+Apparatus for contact thermometry,509,201,1
+Apparatus for radiation thermometry,510,201,2
+Capsule-type SPRTs,511,202,1
+Long-stem SPRTs including HTSPRTs,512,202,2
+Standard radiation thermometers,513,203,1
+Secondary fixed-points and apparatus for contact thermometry,514,204,1
+Platinum resistance thermometers (PRTs),516,205,2
+Rhodium-iron resistance thermometers,515,205,1
+Thermistors and other resistive thermometers,517,205,3
+Base-metal thermocouples,519,206,2
+Noble-metal thermocouples,518,206,1
+Pure-metal thermocouples,520,206,3
+Liquid-in-glass thermometers,521,207,1
+Radiation thermometers and visual optical pyrometers,525,208,4
+Secondary fixed-point blackbody cells and apparatus,522,208,1
+Strip lamps,524,208,3
+Variable temperature blackbody radiation sources,523,208,2
+Air temperature sensors,526,209,1
+Other thermometers,527,209,2
+Temperature sensors with display unit,528,210,1
+Bridge linearity,529,211,1
+Compensation wires for cold junction,530,211,2
+Dry-well block calibrators,534,211,6
+Phase-transition temperature of reference materials,533,211,5
+Temperature indicators,532,211,4
+Wires for melting-point measurements for thermocouples,531,211,3
+Thermal conductivity,535,212,1
+Thermal diffusivity,536,212,2
+Calorific value,539,213,3
+Heat of fusion,538,213,2
+Specific heat capacity,537,213,1
+Spectral emissivity,540,214,1
+Total emissivity,541,214,2
+Thermal expansion coefficient,542,215,1
+Local frequency standard,543,216,1
+Remote frequency standard,544,216,2
+General frequency source,545,217,1
+Frequency counter,546,218,1
+Frequency meter,547,218,2
+Period source,548,219,1
+Delay source,552,220,4
+Pulse width source,550,220,2
+Rise - fall time source,549,220,1
+Time difference source,551,220,3
+Period meter,553,221,1
+Delay meter,557,222,4
+Pulse width meter,555,222,2
+Rise - fall time meter,554,222,1
+Time difference meter,556,222,3
+Local clock vs. UTC,559,223,2
+Local clock vs. UTC(NMI),558,223,1
+Broadcast prediction of UTC by GNSS (bUTCGNSS) vs UTC,1092,224,4
+Broadcast prediction of UTC by GNSS (bUTCGNSS) vs UTC(NMI),1091,224,3
+Remote clock vs. UTC,561,224,2
+Remote clock vs. UTC(NMI),560,224,1
+Standard of 1D point-to-point dimensions ,1026,256,1
+"Encircled flux, fibre optic source or fibre",1027,257,0
+"Encircled flux, measuring instrument",1028,257,1
+"Mode field diameter (MFD), optical fibre",1029,257,2
+"Numerical aperture, optical fibre",1030,257,3
+Artefact,1033,258,2
+Measuring instrument,1032,258,1
+Optical fibre,1031,258,0
+Fixed-point blackbody cells and apparatus,1039,259,1
+Radiation thermometers,1040,259,2
+Variable temperature blackbody radiation sources,1041,259,3
+Broadband detector,1043,260,1
+Modulus,1044,261,1
+Phase,1045,261,2
+Modulus,1046,262,1
+Modulus,1047,263,1
+Modulus,1048,264,1
+Modulus,1049,265,1
+Phase,1050,265,2
+Modulus,1051,266,1
+Modulus,1052,267,1
+Phase,1053,267,2
+Modulus,1054,268,1
+Modulus,1055,269,1
+Phase,1056,269,2
+Modulus,1057,270,1
+Modulus,1058,271,1
+Modulus,1059,272,1
+Modulus,1060,273,1
+Phase,1061,273,2
+Modulus,1062,274,1
+Phase,1063,274,2
+Modulus,1064,275,1
+Phase,1065,275,2
+Modulus,1066,276,1
+Phase,1067,276,2
+Modulus,1068,277,1
+Modulus,1069,278,1
+Phase,1070,278,2
+Modulus,1071,279,1
+Modulus,1072,280,1
+Phase,1073,280,2
+Modulus,1074,281,1
+Modulus,1075,282,1
+Phase,1076,282,2
+Modulus,1077,283,1
+Phase,1078,283,2
+Modulus,1079,284,1
+Phase,1080,284,2
+Modulus,1081,285,1
+Modulus,1082,286,1
+Modulus,1083,287,1
+Modulus,1084,288,1
+Modulus,1085,289,1
+Modulus,1086,290,1
+Phase,1087,290,2
+Modulus,1088,291,1
+Modulus,1089,292,1
+DC power meters and sources,1093,293,1

@@ -1,0 +1,26 @@
+id,value,label
+1,Other,1
+2,Gas,2
+3,Liquid,3
+4,Solid,4
+5,Aerosol,5
+6,Reference material: other,6
+7,Reference material: food,7
+8,Reference material: water,8
+9,Reference material: biological materials,9
+10,Reference material: soils/sediments,10
+11,Reference material: flora,11
+12,Reference material: building materials,12
+13,Reference material: fauna,13
+16,Not applicable,0
+17,Not applicable,0
+18,Other material,1
+19,Air,2
+20,Water,3
+21,Graphite,4
+22,Tissue: superficial,5
+23,Tissue: penetrating,6
+24,Air,1
+25,Water,2
+26,Tissue,3
+27,Not applicable,0

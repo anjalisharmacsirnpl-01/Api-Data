@@ -1,0 +1,36 @@
+value,id,_areaId,label
+Sound in air,1,1,AUV/A
+Sound in water,3,1,AUV/W
+Vibration,2,1,AUV/V
+"AC voltage, current, and power",4,2,EM/AC
+"DC voltage, current, and resistance",5,2,EM/DC
+Electric and magnetic fields,6,2,EM/Field
+High voltage and current,7,2,EM/HV
+Impedance up to the MHz range,8,2,EM/Imped
+Materials,9,2,EM/Mater
+Other DC and low frequency measurements,10,2,EM/OtherDC
+Radio frequency measurements,11,2,EM/RF
+Dimensional metrology,12,3,L/DimMet
+Laser frequencies,13,3,L/Laser
+Density,14,4,M/Dens
+Fluid flow,15,4,M/FF
+Force,16,4,M/Force
+Gravity,37,4,M/Gra
+Hardness,36,4,M/Har
+"Mass, mass standards",17,4,M/Mass
+Pressure,18,4,M/Pres
+Torque,19,4,M/Tor
+Viscosity,35,4,M/Vis
+Fibre optics,21,5,PR/Fibre
+Photometry,23,5,PR/Photo
+Properties of detectors and sources,20,5,PR/Detector
+Properties of materials,22,5,PR/Mater
+Humidity,24,6,T/H
+Temperature,25,6,T/T
+Thermophysical quantities,26,6,T/TQ
+Frequency,27,7,TF/F
+Time interval,28,7,TF/TI
+Time scale difference,29,7,TF/TSD
+Dosimetry,32,9,DOS
+Neutron Measurements,34,9,NEU
+Radioactivity,33,9,RAD

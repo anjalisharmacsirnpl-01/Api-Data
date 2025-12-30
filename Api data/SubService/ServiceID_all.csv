@@ -1,0 +1,259 @@
+id,label,_serviceId,value
+3,3,1,Diffuse field sensitivity level (air)
+292,4,1,Electrostatic actuator normalized response
+2,2,1,Free-field sensitivity level (air)
+1,1,1,Pressure sensitivity level (air)
+5,2,2,Multi-frequency sound calibrators
+4,1,2,Single frequency sound calibrators
+6,1,3,Response of sound measuring instruments
+10,4,4,Impedance head force measuring chain
+9,3,4,Impedance head force transducer
+8,2,4,Mechanical couplers (air)
+7,1,4,Reference couplers or artificial ears (air)
+11,1,5,Output of reference sound sources
+12,1,6,Response of audiometers
+18,2,8,Angular acceleration calibrator
+20,4,8,Angular acceleration measuring chain
+19,3,8,Angular acceleration measuring chain / accelerometer
+17,1,8,Angular acceleration measuring instrument
+22,2,9,Force measuring chain /force transducer for mechanical impedance and mobility measurements…
+21,1,9,Force measuring instrument for mechanical impedance and mobility measurements or modal testing
+23,1,10,Vibration signal conditioner
+24,1,11,Free-field sensitivity
+25,2,11,Pressure sensitivity
+26,1,12,Free-field sensitivity
+27,2,12,Pressure sensitivity
+28,1,13,Output from ultrasound transducer with generator
+29,1,14,Output from ultrasound transducer
+32,3,15,"AC voltage ratio up to 1100 V, atten & gain"
+31,2,15,AC voltage up to 1100 V
+30,1,15,AC-DC voltage transfer
+35,3,16,AC current ratio up to 100 A
+34,2,16,AC current up to 100 A
+33,1,16,AC-DC current transfer
+36,1,17,AC power and energy
+293,2,17,DC power and energy
+38,2,18,DC voltage meters
+39,3,18,DC voltage ratios
+37,1,18,DC voltage sources
+41,2,19,DC resistance meters
+42,3,19,DC resistance ratios
+40,1,19,DC resistance standards and sources
+44,2,20,DC current meters
+45,3,20,DC current ratios
+43,1,20,DC current sources
+46,1,21,Electric fields at freq. below 50 kHz
+48,3,21,Electromagnetic fields at freq. above 50 kHz
+47,2,21,Magnetic fields at freq. below 50 kHz
+51,3,22,AC high voltage and voltage transformers
+53,5,22,Electric discharge
+54,6,22,High AC current and current transformers
+55,7,22,High DC current
+49,1,22,High DC voltage
+50,2,22,High voltage impedance
+52,4,22,Pulsed high voltage and current
+56,1,23,AC resistance
+57,2,23,Capacitance
+58,3,23,Inductance
+60,2,24,Dielectric properties
+59,1,24,Electrical conductivity
+63,5,24,"Feebly magnetic, paramagnetic and diamagnetic material"
+64,6,24,Hard magnetic material
+65,7,24,Magnetic data storage media
+62,4,24,Soft magnetic bulk material
+61,3,24,Soft magnetic sheet and powder materials
+68,3,25,Current and voltage waveform
+66,1,25,Electric charge
+67,2,25,Phase angle
+73,5,26,Antenna properties
+76,8,26,Lumped impedance - admittance
+72,4,26,Noise
+77,9,26,RF characteristic impedance
+69,1,26,RF power
+75,7,26,RF voltage and current
+70,2,26,Scalar RF reflection coef. and attenuation
+71,3,26,Scattering parameters (vectors)
+74,6,26,Signal and pulse characteristics
+81,4,27,Diameter standards
+79,2,27,End standards
+78,1,27,Length instruments
+80,3,27,Line standards
+256,5,27,Standards of 1D Dimensions
+85,4,28,Angle artefacts
+82,1,28,Angle by circle dividers
+84,3,28,Angle instruments
+86,5,28,Angle prisms
+83,2,28,Small-angle generators
+90,4,29,Cylindricity standards
+87,1,29,Flatness standards
+91,5,29,Optical standards
+88,2,29,Roundness standards
+89,3,29,Straightness standards
+95,4,30,Coordinate Measuring Machine (CMM) artefacts
+94,3,30,Gear standards
+97,6,30,Hardness
+93,2,30,Screw standards
+92,1,30,Surface texture standards
+96,5,30,Two-dimension and three-dimension instruments
+98,1,31,Hand instruments
+103,6,31,Layer thickness
+101,4,31,Long distance
+104,7,31,Not attributed 1
+99,2,31,Pressure artefacts
+102,5,31,Reference materials
+100,3,31,Thermal expansivity
+106,2,32,Lamp radiations
+105,1,32,Laser radiations
+108,2,33,Density of liquid
+107,1,33,Density of solid
+109,3,33,Refractive index of liquid
+110,10,34,Fluid flow
+112,2,35,Compression
+111,1,35,Tension
+113,3,35,Tension and compression
+114,1,36,Mass standard
+115,1,37,Absolute pressure
+117,3,37,Differential pressure
+118,4,37,Dynamic pressure
+116,2,37,Gauge pressure
+119,1,38,Torque
+121,2,39,Capillary viscometers
+120,1,39,Certified Newtonian reference liquids
+122,3,39,Viscosity measurement of Newtonian liquids
+123,1,40,Hardness
+124,1,41,Gravity
+127,11,42,"Responsitivity, solar, spectral, irradiance"
+134,8,42,"Responsivity, blackbody, total irradiance"
+131,5,42,"Responsivity, laser, energy"
+130,4,42,"Responsivity, laser, power"
+133,7,42,"Responsivity, solar, irradiance"
+132,6,42,"Responsivity, solar, power"
+128,2,42,"Responsivity, spectral, irradiance"
+125,1,42,"Responsivity, spectral, power"
+129,3,42,"Responsivity, spectral, radiance"
+260,12,42,"Responsivity, terrestrial irradiance"
+135,9,42,"Responsivity, UV, broadband irradiance"
+126,10,42,"Responsivity, UV, broadband radiant exposure"
+136,1,43,"Irradiance, spectral"
+138,3,43,"Power, spectral total radiant"
+137,2,43,"Radiance, spectral"
+140,5,43,"Radiant flux, spectral"
+139,4,43,"Radiant intensity, spectral"
+145,5,44,Chromaticity response
+146,6,44,"Colour rendering, Ra"
+144,4,44,"Colour, emitted"
+142,2,44,Correlated colour temperature
+143,3,44,Correlated colour temperature response
+141,1,44,Distribution temperature
+147,7,44,"Radiance, total"
+148,8,44,"Radiant flux, total"
+153,5,45,Attenuation
+154,7,45,Chromatic dispersion
+151,11,45,Fibre Polarization mode dispersion (inactive)
+150,10,45,Length
+257,3,45,Modal properties
+258,8,45,Polarization mode dispersion
+149,1,45,Responsivity
+152,2,45,Wavelength
+167,4,46,"Absorbance, diffuse, spectral"
+166,3,46,"Absorbance, regular, spectral"
+163,17,46,"Angle of rotation of polarization plane, spectral"
+157,11,46,BRDF
+164,18,46,"Ellipsometric angles phi, delta, spectral"
+171,9,46,Emissivity
+156,10,46,"Emittance, spectral"
+160,14,46,Luminescent radiance factor
+159,13,46,Radiance factor
+158,12,46,Reflectance factor
+168,5,46,"Reflectance, diffuse, spectral"
+170,7,46,"Reflectance, hemispherical, spectral"
+169,6,46,"Reflectance, regular, spectral"
+162,16,46,"Refractive index, spectral"
+165,2,46,"Transmittance, diffuse, spectral"
+155,1,46,"Transmittance, regular, spectral"
+161,15,46,Wavelength
+175,2,47,"Colour, surface, Lab"
+172,1,47,"Colour, surface, x, y, Y"
+177,4,47,"Colour, transmitted, Lab"
+176,3,47,"Colour, transmitted, x, y, Y"
+179,6,47,Gloss
+180,7,47,Haze
+173,10,47,Luminance coefficient
+181,9,47,Luminance factor
+178,5,47,Retroreflectance
+174,12,47,Whiteness
+188,7,48,Averaged luminous intensity
+185,4,48,Illuminance
+183,2,48,Illuminance responsivity
+186,5,48,Luminance
+187,6,48,Luminance responsivity
+189,8,48,Luminous exposure
+184,3,48,Luminous flux
+182,1,48,Luminous intensity
+190,1,49,Dew-point hygrometers
+193,4,49,Other hygrometers
+191,2,49,Psychrometers
+192,3,49,Relative humidity sensors
+194,1,50,Dew-point generators
+196,3,50,Flow mixing
+197,4,50,"Permeation tube, diffusion tube"
+195,2,50,Relative humidity generators
+199,2,51,Reference gases
+198,1,51,"Salt solutions (saturated, unsaturated)"
+201,2,52,Complete apparatus realizing fixed-points
+200,1,52,Primary fixed-point cells
+202,3,52,Standard platinum resistance therm. (SPRTs)
+203,4,52,Standard radiation thermometers
+207,4,53,Liquid-in-glass thermometers
+211,8,53,Other measurement services
+209,6,53,Other thermometers
+208,5,53,Radiation thermometry
+205,2,53,Resistance thermometers
+204,1,53,Secondary fixed-point cells and apparatus
+210,7,53,Temperature sensors with display unit
+206,3,53,Thermocouples
+213,2,54,Caloric property
+214,3,54,Radiative property
+212,1,54,Thermal transport property
+215,4,54,Thermo-mechanical property
+218,3,55,Frequency meter
+217,2,55,General frequency source
+216,1,55,Standard frequency source
+221,3,56,Period meter
+219,1,56,Period source
+222,4,56,Time interval meter
+220,2,56,Time interval source
+223,1,57,Local clock
+224,2,57,Remote clock
+259,1,64,Radiation thermometry
+261,1,65,Frequency response
+262,2,65,Shock response
+263,1,66,Acceleration output
+264,2,66,Shock output
+265,1,67,Charge sensitivity
+269,5,67,Current sensitivity
+266,2,67,Shock charge sensitivity
+270,6,67,Shock current sensitivity
+268,4,67,Shock voltage sensitivity
+267,3,67,Voltage sensitivity
+271,1,68,Angular acceleration response
+285,2,68,Shock response
+272,1,69,Angular acceleration output
+286,2,69,Angular shock output
+273,1,70,Charge sensitivity
+275,5,70,Current sensitivity
+287,2,70,Shock charge sensitivity
+289,6,70,Shock current sensitivity
+288,4,70,Shock voltage sensitivity
+274,3,70,Voltage sensitivity
+276,1,71,Frequency response
+277,2,71,Shock response
+278,1,72,Charge sensitivity
+290,5,72,Current sensitivity
+279,2,72,Shock charge sensitivity
+291,6,72,Shock Current sensitivity
+281,4,72,Shock voltage sensitivity
+280,3,72,Voltage sensitivity
+282,1,73,Charge sensitivity
+284,3,73,Current Sensitivity
+283,2,73,Voltage sensitivity
